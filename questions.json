@@ -1,0 +1,5283 @@
+[
+ {
+  "id": 1,
+  "question": "When a project is being performed under contract, the product description is provided by which1 of the following?",
+  "options": {
+   "A": "The buyer",
+   "B": "The project sponsor",
+   "C": "The project manager",
+   "D": "The contractor"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 2,
+  "question": "Span of control in project management is the range of employees who to report to a ________",
+  "options": {
+   "A": "Managerial position",
+   "B": "Developer",
+   "C": "Customer",
+   "D": "None of the given"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 3,
+  "question": "Resource allocation task is performed in phase ________",
+  "options": {
+   "A": "Project initiation",
+   "B": "Project closedown",
+   "C": "Project planning, control, and tracking",
+   "D": "Product implementation"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 4,
+  "question": "Auditing is activity of ________",
+  "options": {
+   "A": "Construction",
+   "B": "Design",
+   "C": "SCM",
+   "D": "Testing"
+  },
+  "answer": "D",
+  "note": "Key tài liệu là Testing, nhưng theo lý thuyết Auditing (configuration audit) thuộc SCM."
+ },
+ {
+  "id": 5,
+  "question": "___________ associated with constraints imposed by management or the marketplace.",
+  "options": {
+   "A": "Business impact-risks",
+   "B": "Product size-risks",
+   "C": "Process definition-risks",
+   "D": "Customer characteristics-risks"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 6,
+  "question": "The training plan NOT contain the activity ________",
+  "options": {
+   "A": "Training Courses",
+   "B": "Training Schedule",
+   "C": "Software Components for Installation",
+   "D": "Roles and Responsibilities"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 7,
+  "question": "_________ is an evolutionary life cycle model that combines the linear nature of the Waterfall model and the iterative nature of the Prototyping model",
+  "options": {
+   "A": "The RAD Model",
+   "B": "The Waterfall Model",
+   "C": "The Prototyping Model",
+   "D": "The Spiral Model"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 8,
+  "question": "People are managed through a________",
+  "options": {
+   "A": "Culture",
+   "B": "Nature",
+   "C": "Organizational structure",
+   "D": "Organizational culture"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 9,
+  "question": "People are managed through an organizational structure. This hierarchical structure is based on the ________ cornerstones of management",
+  "options": {
+   "A": "Three",
+   "B": "Four",
+   "C": "Five",
+   "D": "Two"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 10,
+  "question": "Traditional structures of business organization are of _______ types",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "1",
+   "D": "3"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 11,
+  "question": "Specify any company or industry-specific standards that are relevant to performing the work is called ________",
+  "options": {
+   "A": "Deliverables Schedule",
+   "B": "Applicable Standards",
+   "C": "Acceptance Criteria",
+   "D": "Special Requirements"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 12,
+  "question": "Using the intermediate COCOMO technique effort is calculated in ________",
+  "options": {
+   "A": "Five-step Process",
+   "B": "Two-step process",
+   "C": "Three-step process",
+   "D": "Four-step process"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 13,
+  "question": "_________ is NOT a guideline for creating a software project schedule?",
+  "options": {
+   "A": "Classification",
+   "B": "Interdependence",
+   "C": "Decomposition",
+   "D": "Validation criteria"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 14,
+  "question": "Dividing a software project into phases helps you in managing the ________ involved in the software project.",
+  "options": {
+   "A": "Complexities",
+   "B": "Uncertainties",
+   "C": "Complexities, Uncertainties",
+   "D": "Size"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 15,
+  "question": "Unstructured and hurried software development is a ________",
+  "options": {
+   "A": "Technology-related problem",
+   "B": "Product-related problem",
+   "C": "Process-related problem",
+   "D": "People-related problem"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 16,
+  "question": "We use _________ when the organization is small, geographically centralized, and provides few goods and services.",
+  "options": {
+   "A": "Functional structures",
+   "B": "Projectized Structure",
+   "C": "Both Functional structures, Projectized Structure",
+   "D": "Neither Functional structures nor Projectized Structure"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 17,
+  "question": "Your WBS design should try to achieve certain goal/s except ________",
+  "options": {
+   "A": "Allow mapping of requirements, plans, testing, and deliverables",
+   "B": "Foster clear ownership by managers and task leaders",
+   "C": "Provide data for performance measurement and historical databases,",
+   "D": "Do not give visibility to important or risky work efforts"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 18,
+  "question": "_________ is /are basic network-scheduling techniques.",
+  "options": {
+   "A": "PERT",
+   "B": "CPM",
+   "C": "Both PERT and CPM",
+   "D": "Neither PERT nor CPM"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 19,
+  "question": "__________ is/are common component/s of PERT and CPM.",
+  "options": {
+   "A": "Activities",
+   "B": "Nodes and Network",
+   "C": "Critical path",
+   "D": "Activities, Critical path. Nodes and Network"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 20,
+  "question": "Risk Identification involves except ________",
+  "options": {
+   "A": "Determining which risks might affect the project",
+   "B": "Documenting their characteristics",
+   "C": "Risk Probability",
+   "D": "Identifying risks that may occur on a particular project"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 21,
+  "question": "One of the more recent developments in quality assurance is the realization that quality is attribute that either exists or does not exist.",
+  "options": {
+   "A": "Not a binary",
+   "B": "A binary",
+   "C": "Exponential",
+   "D": "Both binary and exponential"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 22,
+  "question": "The amount of training time needed for a new user is called ________",
+  "options": {
+   "A": "Reliability",
+   "B": "Recoverability",
+   "C": "Availability",
+   "D": "User-friendliness"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 23,
+  "question": "Resources are assigned to tasks for the following reason:",
+  "options": {
+   "A": "Standard rate: The normal rate at which a resource is procured",
+   "B": "Overtime rate: The rate that you pay if you overuse a work resource",
+   "C": "Both Standard rate and Overtime rate",
+   "D": "Neither Standard rate nor Overtime rate"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 24,
+  "question": "________ committee is set up to monitor implementation committee",
+  "options": {
+   "A": "Implementation department",
+   "B": "Implementation",
+   "C": "Implementation coordination",
+   "D": "Configuration"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 25,
+  "question": "The user-representative gives the sign-off after ________",
+  "options": {
+   "A": "Acceptance testing",
+   "B": "Project failure",
+   "C": "Unit Testing",
+   "D": "White Box Testing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 26,
+  "question": "The primary input to create the software is/are ________",
+  "options": {
+   "A": "Project Resources",
+   "B": "Project Cost",
+   "C": "Project schedule",
+   "D": "Project Plan"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 27,
+  "question": "Fuzzy users are a ________ related problem",
+  "options": {
+   "A": "People",
+   "B": "Product",
+   "C": "Process",
+   "D": "Technology"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 28,
+  "question": "If every requirement stated in the Software Requirement Specification (SRS) has only one interpretation, SRS is said to be ________",
+  "options": {
+   "A": "Correct",
+   "B": "Unambiguous",
+   "C": "Consistent",
+   "D": "Verifiable"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 29,
+  "question": "If every requirement can be checked by a cost-effective process, then the SRS is ________",
+  "options": {
+   "A": "Verifiable",
+   "B": "Traceable",
+   "C": "Modifiable",
+   "D": "Complete"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 30,
+  "question": "Which of the following is an output from Software Development Process (SDP)?",
+  "options": {
+   "A": "Project plan",
+   "B": "Work results",
+   "C": "Change requests",
+   "D": "Supporting details"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 31,
+  "question": "The activity that distributes estimated effort across the planned project duration by allocating the effort to specific software engineering tasks is called ________",
+  "options": {
+   "A": "Cost management",
+   "B": "Project schedule",
+   "C": "Effort management",
+   "D": "Activity management"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 32,
+  "question": "Requirements can be refined using ________",
+  "options": {
+   "A": "Waterfall model",
+   "B": "Prototyping model",
+   "C": "Evolutionary model",
+   "D": "Spiral model"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 33,
+  "question": "The ISO quality assurance standard that applies to software engineering is ________",
+  "options": {
+   "A": "ISO 9000",
+   "B": "ISO 9001",
+   "C": "ISO 9002",
+   "D": "ISO 9003"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 34,
+  "question": "All activities lying on critical path have slack time equal to ________",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 35,
+  "question": "Which of the following planning is highly affected by organizational planning?",
+  "options": {
+   "A": "Scope planning",
+   "B": "Quality planning",
+   "C": "Testing planning",
+   "D": "Communication planning"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 36,
+  "question": "Which of the following is not a size metric?",
+  "options": {
+   "A": "LOC",
+   "B": "Function count",
+   "C": "Program length",
+   "D": "Cyclomatic complexity"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 37,
+  "question": "The model that assumes that effort and development time are functions of product size alone is ________",
+  "options": {
+   "A": "Basic COCOMO model",
+   "B": "Intermediate COCOMO model",
+   "C": "Detailed COCOMO model",
+   "D": "All the three COCOMO models"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 38,
+  "question": "How many risk stages are there in risk management plan?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 39,
+  "question": "Functional decomposition of a software project is a division of the system into ________",
+  "options": {
+   "A": "Operational components",
+   "B": "High level components",
+   "C": "Low level modules",
+   "D": "Low level modules and high level components"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 40,
+  "question": "__________ is another important factor that can affect the accuracy and efficacy of estimates.",
+  "options": {
+   "A": "Project Size",
+   "B": "Project Cost",
+   "C": "Project Time",
+   "D": "project Risk"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 41,
+  "question": "CPM stands for ________ .",
+  "options": {
+   "A": "Cyclic Path Method",
+   "B": "Cross process Model",
+   "C": "Critical Path Method",
+   "D": "Cyclic Process Method"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 42,
+  "question": "The Source Line of Code (SLOC) technique is ________ .",
+  "options": {
+   "A": "Platform-Dependent",
+   "B": "Language-Dependent",
+   "C": "Technique-Dependent",
+   "D": "Functional-Dependent"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 43,
+  "question": "Scheduling for software engineering projects can be viewed from ________ rather different perspectives.",
+  "options": {
+   "A": "One",
+   "B": "Two",
+   "C": "Three",
+   "D": "Four"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 44,
+  "question": "Estimation of following Critical factors are essential EXCEPT ________ .",
+  "options": {
+   "A": "Cost",
+   "B": "Time",
+   "C": "Effort",
+   "D": "Risk"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 45,
+  "question": "Which of the following guideline for creating the software project schedule is used to group similar tasks and activities so that they are completed successfully?",
+  "options": {
+   "A": "Interdependence",
+   "B": "Time and effort allocation",
+   "C": "Classification",
+   "D": "Defined responsibilities and outputs"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 46,
+  "question": "__________ is measured by the degree of uncertainty in the quantitative estimates established for resources, cost, and schedule.",
+  "options": {
+   "A": "Time",
+   "B": "Size",
+   "C": "Risk",
+   "D": "Access"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 47,
+  "question": "_________ is the most expensive element of virtually all computer-based systems.",
+  "options": {
+   "A": "Software",
+   "B": "Customer",
+   "C": "Hardware",
+   "D": "Cost"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 48,
+  "question": "Which of the following tools and techniques shows the impacts of one decision over another as well as the probability and cost of each risk along a logical path?",
+  "options": {
+   "A": "Simulation",
+   "B": "Decision tree",
+   "C": "Probability /impact risk matrix",
+   "D": "Sensitivity analysis"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 49,
+  "question": "_________ is not an evaluation method used to validate performance.",
+  "options": {
+   "A": "Transaction Logs",
+   "B": "Testing for adherence to spec",
+   "C": "Setup schedule for reviews",
+   "D": "Business Development"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 50,
+  "question": "CSOM stands for ________",
+  "options": {
+   "A": "Computer system operator's manual",
+   "B": "Computer system offered manual",
+   "C": "Computer software operator's manual",
+   "D": "Computer system obvious manual"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 51,
+  "question": "__________ (s) are tangible results produced by processes in the system, such as products or services for consumers.",
+  "options": {
+   "A": "Input",
+   "B": "Process",
+   "C": "Output",
+   "D": "Feedback"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 52,
+  "question": "___________ technique used to integrate the projects scope, schedule, and resources and to measure and report project performance from initiation to closeout",
+  "options": {
+   "A": "PMIS",
+   "B": "EVM",
+   "C": "Stakeholder skills and knowledge",
+   "D": "PV"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 53,
+  "question": "Estimation of all the factors are essential EXCEPT ________ .",
+  "options": {
+   "A": "Quality",
+   "B": "Cost",
+   "C": "Effort",
+   "D": "Risk"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 54,
+  "question": "It is the __________ responsibility to select the structure best suited for the project.",
+  "options": {
+   "A": "Product Manager's",
+   "B": "Planner",
+   "C": "Project Manager's",
+   "D": "Process Manager's"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 55,
+  "question": "To expand or contact project scope, to modify cost, or schedule estimates are examples of ________",
+  "options": {
+   "A": "Work results",
+   "B": "Change request",
+   "C": "Change schedule",
+   "D": "Change scope"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 56,
+  "question": "The ________ of scope planning are the scope statement and scope management plan, with the supporting detail.",
+  "options": {
+   "A": "Outputs",
+   "B": "Inputs",
+   "C": "Processes",
+   "D": "Logs"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 57,
+  "question": "Staffing management plan can be ________",
+  "options": {
+   "A": "Formal",
+   "B": "Informal",
+   "C": "highly detailed",
+   "D": "All is correct"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 58,
+  "question": "________ is one of the most important management activity and is an ongoing effort throughout the life of the project.",
+  "options": {
+   "A": "Analysis",
+   "B": "Planning",
+   "C": "Organizing",
+   "D": "Leading"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 59,
+  "question": "All of the following are descriptions of how new system is to be developed in Technical Approach EXCEPT ________ .",
+  "options": {
+   "A": "Technologies",
+   "B": "Consultants",
+   "C": "Architectural Layout",
+   "D": "Derivatives of existing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 60,
+  "question": "If the size of a project is extensive and the client prefers all the features of the proposed project at the first delivery, you can select the ________ Model.",
+  "options": {
+   "A": "Incremental",
+   "B": "RAD",
+   "C": "Prototyping",
+   "D": "Waterfall"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 61,
+  "question": "The DIDs (Data Item Description) includes a section called ________",
+  "options": {
+   "A": "Formal Documentation",
+   "B": "Preparation Instruction",
+   "C": "Associated Documentation",
+   "D": "Effective Resolution"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 62,
+  "question": "It is the responsibility of ________ to select the structure best suited for the project.",
+  "options": {
+   "A": "Team Lead",
+   "B": "Project Manager",
+   "C": "Supervisor",
+   "D": "Group"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 63,
+  "question": "PMIS Stands for ________ .",
+  "options": {
+   "A": "Process Management Inter System",
+   "B": "Project Management Information System",
+   "C": "Program Maintenance Interior System",
+   "D": "Personal Matters Information System"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 64,
+  "question": "_________ is the process of progressively elaborating and documenting the project work that produces the product of the project.",
+  "options": {
+   "A": "Technical Approach",
+   "B": "Scope planning",
+   "C": "Resource Allocation",
+   "D": "Evaluation Methods"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 65,
+  "question": "A ________ contract is a commitment by the developer to provide an agreed product or service for an agreed fee, within an agreed schedule",
+  "options": {
+   "A": "Cost-Plus",
+   "B": "Variable Price",
+   "C": "Fixed price",
+   "D": "Schedule"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 66,
+  "question": "The software equation can be used to show that _______",
+  "options": {
+   "A": "Productivity goes up when deadline changes",
+   "B": "Total effort is mainly driven by size in KLOC",
+   "C": "Any deadline can be met by increasing team size",
+   "D": "Cost may become prohibitive with schedule compression"
+  },
+  "answer": "C",
+  "note": "Key tài liệu là 'Any deadline can be met by increasing team size', nhưng đúng ra là 'Cost may become prohibitive with schedule compression'."
+ },
+ {
+  "id": 67,
+  "question": "Risk projection attempts to rate each risk in two ways:",
+  "options": {
+   "A": "likelihood and exposure",
+   "B": "likelihood and consequences",
+   "C": "likelihood and cost",
+   "D": "likelihood and impact"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 68,
+  "question": "A project budget report shows spending of $350,000 against a budgeted amount of $400,000. Which of the following is true?",
+  "options": {
+   "A": "The project will complete within budget",
+   "B": "They are doing a good job managing the project",
+   "C": "We can not be sure how the project is going",
+   "D": "Project is spending less than the required amount"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 69,
+  "question": "The 40-20-40 rule suggests that the least of amount of development effort be spent on _______",
+  "options": {
+   "A": "Planning",
+   "B": "Coding",
+   "C": "Testing",
+   "D": "Modeling"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 70,
+  "question": "A task set is a collection of ________",
+  "options": {
+   "A": "responsibilities, milestones, documents",
+   "B": "engineering work tasks, milestones, deliverables",
+   "C": "milestones, deliverables, metrics",
+   "D": "task assignments, cost estimates, metrics"
+  },
+  "answer": "C",
+  "note": "Key tài liệu là 'milestones, deliverables, metrics', nhưng theo Pressman task set gồm engineering work tasks, milestones, deliverables."
+ },
+ {
+  "id": 71,
+  "question": "Resource leveling can not help with _________",
+  "options": {
+   "A": "Reduced fluctuations in resource demand",
+   "B": "Improvement in critical path",
+   "C": "Reduced resource need over the life of the project",
+   "D": "Lower peak demand"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 72,
+  "question": "The level of review formality is not determined by _________",
+  "options": {
+   "A": "reviewer follow-up",
+   "B": "structure of review",
+   "C": "size of project budget",
+   "D": "amount of preparation"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 73,
+  "question": "While scheduling a project, effort validation is required for _________",
+  "options": {
+   "A": "Checking size estimates",
+   "B": "Work load of members",
+   "C": "Competence of team",
+   "D": "Timely completion"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 74,
+  "question": "The purpose of earned value analysis is to _________",
+  "options": {
+   "A": "provide a qualitative means of assessing software project progress",
+   "B": "set the price point for a software product based on development effort",
+   "C": "provide a quantitative means of assessing software project progress",
+   "D": "determine how to compensate developers based on their productivity"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 75,
+  "question": "Which of the following is not an approach to sizing problem?",
+  "options": {
+   "A": "Fuzzy Logic",
+   "B": "Schedule Focus",
+   "C": "Component Sizing",
+   "D": "Function Point"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 76,
+  "question": "Which of the following are objectives for formal technical reviews?",
+  "options": {
+   "A": "determining who introduced an error into a program",
+   "B": "assess programmer productivity",
+   "C": "allow senior staff members to correct errors",
+   "D": "uncover errors in software work products"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 77,
+  "question": "Which of the following provide useful measures of software quality?",
+  "options": {
+   "A": "reliability, maintainability, integrity, sales",
+   "B": "correctness, maintainability, integrity, usability",
+   "C": "correctness, controllability, integrity, usability",
+   "D": "correctness, maintainability, size, satisfaction"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 78,
+  "question": "Three categories of risks in software projects are _________",
+  "options": {
+   "A": "management risks, technical risks, design risks",
+   "B": "planning risks, technical risks, personnel risks",
+   "C": "business risks, personnel risks, budget risks",
+   "D": "project risks, technical risks, business risks"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 79,
+  "question": "The best indicator of progress on a software project is the completion of _________",
+  "options": {
+   "A": "successful budget review meeting on time",
+   "B": "successful review of a defined software work product",
+   "C": "successful acceptance of project prototype by the customer",
+   "D": "defined engineering activity task"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 80,
+  "question": "In earned value analysis, it is desirable that variance and index are ________",
+  "options": {
+   "A": "positive and less than 1",
+   "B": "negative and greater than 1",
+   "C": "negative and less than 1",
+   "D": "positive and greater than 1"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 81,
+  "question": "Empirical estimation models are typically based on ________",
+  "options": {
+   "A": "refinement of expected value estimation",
+   "B": "regression model derived from historical project data",
+   "C": "trial and error determination of the parameters and coefficients",
+   "D": "expert judgement based on past project experiences"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 82,
+  "question": "As per Putnam's Software Equation, when development time is reduced by 5%, effort goes up by ________",
+  "options": {
+   "A": "5%",
+   "B": "Effort goes down",
+   "C": "Over 20%",
+   "D": "About 10%"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 83,
+  "question": "Which of the following is not one of the guiding principles of software project scheduling?",
+  "options": {
+   "A": "Effort Validation",
+   "B": "Market assessment",
+   "C": "Time allocation",
+   "D": "Compartmentalization"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 84,
+  "question": "A risk table will not contain following information about risk:",
+  "options": {
+   "A": "Impact",
+   "B": "Probability",
+   "C": "Category",
+   "D": "Source"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 85,
+  "question": "Which of the following is not one of the attributes of software quality?",
+  "options": {
+   "A": "Useful products satisfy stakeholder requirements",
+   "B": "Adds value for developers and users",
+   "C": "Effective software process creates infrastructure",
+   "D": "Removes need to consider performance issues"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 86,
+  "question": "The critical path in a project network is the ________",
+  "options": {
+   "A": "Shortest path through the network",
+   "B": "Network path with the most difficult activities",
+   "C": "Network path using the most resources",
+   "D": "Longest path through the network"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 87,
+  "question": "Software risk impact assessment should focus on consequences affecting ________",
+  "options": {
+   "A": "planning, resources, cost, schedule",
+   "B": "marketability, cost, personnel",
+   "C": "business, technology, process",
+   "D": "performance, cost, support, schedule"
+  },
+  "answer": "A",
+  "note": "Câu này xuất hiện 2 lần trong tài liệu với key khác nhau: “planning, resources, cost, schedule” và “Performance, support, cost, schedule”."
+ },
+ {
+  "id": 88,
+  "question": "A ________ is a document that formally recognizes the existence of a project and provides direction on the project’s objectives and management.",
+  "options": {
+   "A": "contract",
+   "B": "project charter",
+   "C": "project management plan",
+   "D": "business case"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 89,
+  "question": "The first step in project planning is to _______",
+  "options": {
+   "A": "determine the budget",
+   "B": "determine the project constraints",
+   "C": "establish the objectives and scope",
+   "D": "select a team organizational model"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 90,
+  "question": "To construct a high-quality, custom home within five months at costs not to exceed $150,000 is best classified as ________",
+  "options": {
+   "A": "Deliverable",
+   "B": "Objective",
+   "C": "Milestone",
+   "D": "Exclusion"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 91,
+  "question": "Why is it important to measure the process of software engineering and software it produces?",
+  "options": {
+   "A": "To determine costs and allow a profit margin to be set",
+   "B": "To make software engineering more like other engineering processes",
+   "C": "To determine whether a software group is improving or not",
+   "D": "It is really not necessary unless the project is extremely complex"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 92,
+  "question": "Software feasibility is based on which of the following:",
+  "options": {
+   "A": "business and marketing concerns",
+   "B": "scope, constraints, market",
+   "C": "technology, finance, time, resources",
+   "D": "technical prowess of the developers"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 93,
+  "question": "The prototyping model of software development is ________",
+  "options": {
+   "A": "A reasonable approach when requirements are well defined",
+   "B": "The best approach to use for projects with large development teams",
+   "C": "A risky model that rarely produces a meaningful product",
+   "D": "A useful approach when customer can not define requirements clearly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 94,
+  "question": "Which is the best example of a project?",
+  "options": {
+   "A": "Producing automobiles",
+   "B": "Writing a term paper",
+   "C": "Developing HIV vaccine",
+   "D": "Processing insurance claims"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 95,
+  "question": "Which measurement activity is missing from this list: Formulation, Collection, Analysis, Interpretation ?",
+  "options": {
+   "A": "Measurement",
+   "B": "Quantification",
+   "C": "Feedback",
+   "D": "Design"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 96,
+  "question": "In Agile software development estimation techniques focus on the time required to complete each _______",
+  "options": {
+   "A": "use-case",
+   "B": "scenario",
+   "C": "increment",
+   "D": "task"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 97,
+  "question": "Which of the following items are not measured by software project metrics?",
+  "options": {
+   "A": "Outputs",
+   "B": "Markets",
+   "C": "Results",
+   "D": "Inputs"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 98,
+  "question": "The most important feature of spiral model is _______",
+  "options": {
+   "A": "quality management",
+   "B": "configuration management",
+   "C": "risk management",
+   "D": "requirement analysis"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 99,
+  "question": "Which of the following is not a measurable characteristic of an object-oriented design?",
+  "options": {
+   "A": "size",
+   "B": "volatility",
+   "C": "efficiency",
+   "D": "completeness"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 100,
+  "question": "Which of the following is not a main project objective?",
+  "options": {
+   "A": "Quality",
+   "B": "Structure",
+   "C": "Cost",
+   "D": "Time"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 101,
+  "question": "Which of the following is NOT a main element of the project management activities?",
+  "options": {
+   "A": "Estimate",
+   "B": "Monitor",
+   "C": "Design",
+   "D": "Schedule"
+  },
+  "answer": "A",
+  "note": "Key tài liệu là Estimate, nhưng Design mới không phải hoạt động quản lý dự án."
+ },
+ {
+  "id": 102,
+  "question": "Make/Buy decisions are usually not driven by ________",
+  "options": {
+   "A": "Support concerns",
+   "B": "Cost of acquisition",
+   "C": "Time to market",
+   "D": "Staff aspirations"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 103,
+  "question": "Which of the following is not one of the commonly heard comments of project managers?",
+  "options": {
+   "A": "How can all these projects be first priority?",
+   "B": "Where are we going to get the resources to do this project?",
+   "C": "Why is this project so strongly linked to the strategic plan?",
+   "D": "Why are we doing this project?"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 104,
+  "question": "Which of these are the 5 generic software engineering framework activities?",
+  "options": {
+   "A": "analysis, planning, designing, programming, testing",
+   "B": "communication, risk management, measurement, production, reviewing",
+   "C": "communication, planning, modeling, construction, deployment",
+   "D": "analysis, designing, programming, debugging, maintenance"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 105,
+  "question": "LOC-based estimation techniques require problem decomposition based on _________",
+  "options": {
+   "A": "project schedule",
+   "B": "software functions",
+   "C": "information domain values",
+   "D": "process activities"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 106,
+  "question": "FP-based estimation techniques require problem decomposition based on _________",
+  "options": {
+   "A": "process activities",
+   "B": "information domain values",
+   "C": "software functions",
+   "D": "project schedule"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 107,
+  "question": "The Process Models differ from one another based on following factors except _________",
+  "options": {
+   "A": "Manner of Quality Assurance",
+   "B": "Team Organization and Roles",
+   "C": "Conformance to quality standards",
+   "D": "Based on flow of activities"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 108,
+  "question": "One reason to involve everyone on the software team in the planning activity is to _________",
+  "options": {
+   "A": "control feature creep",
+   "B": "get all team members to \"sign up\" to the plan",
+   "C": "understand the problem scope",
+   "D": "adjust the granularity of the plan"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 109,
+  "question": "Which of the following is not a weak point of waterfall lifecycle?",
+  "options": {
+   "A": "Difficult to keep entire team busy with work",
+   "B": "Difficult to prepare a plan early",
+   "C": "Difficult for the customer to state all requirements",
+   "D": "Working version of the program is not available soon"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 110,
+  "question": "Which of the following is not necessary to apply agility to a software process?",
+  "options": {
+   "A": "Process allows team to streamline tasks",
+   "B": "Eliminate the use of project planning and testing",
+   "C": "Uses incremental product delivery strategy",
+   "D": "Only essential work products are produced"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 111,
+  "question": "The incremental model of software development is _________",
+  "options": {
+   "A": "A reasonable approach when requirements are well defined",
+   "B": "The best approach to use for projects with large development teams",
+   "C": "A good approach when a working core product is required quickly",
+   "D": "A revolutionary model that is not used for commercial products"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 112,
+  "question": "The Waterfall model of software development is _________",
+  "options": {
+   "A": "The best approach to use for projects with large development teams",
+   "B": "A good approach when a working program is required quickly",
+   "C": "An old fashioned model that is not used any more",
+   "D": "A reasonable approach when requirements are well defined"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 113,
+  "question": "Project selection criteria are typically classified as ________",
+  "options": {
+   "A": "Short-term and long-term",
+   "B": "Strategic and tactical",
+   "C": "Financial and non-financial",
+   "D": "Required and optional"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 114,
+  "question": "The first reverse engineering activity involves seeking to understand _________",
+  "options": {
+   "A": "business trends",
+   "B": "user interface",
+   "C": "processing",
+   "D": "data"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 115,
+  "question": "Which of the following is not considered one of the four important elements that should exist when a configuration management system is developed?",
+  "options": {
+   "A": "human elements",
+   "B": "component elements",
+   "C": "process elements",
+   "D": "validation elements"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 116,
+  "question": "Which of the following tasks is not part of software configuration management?",
+  "options": {
+   "A": "version control",
+   "B": "statistical quality control",
+   "C": "change control",
+   "D": "reporting"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 117,
+  "question": "Software safety is a quality assurance activity that focuses on hazards that ________",
+  "options": {
+   "A": "prevent profitable marketing of the final product",
+   "B": "affect the reliability of a software component",
+   "C": "may result from user input errors",
+   "D": "may cause an entire system to fail"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 118,
+  "question": "A review summary report answers which three questions?",
+  "options": {
+   "A": "what defects were found, what caused defects, who was responsible",
+   "B": "terminate project, replace producer, request a time extension",
+   "C": "project situation, success story, improvement point",
+   "D": "what was reviewed, who reviewed it, what were the findings"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 119,
+  "question": "Software reliability problems can almost always be traced to _______",
+  "options": {
+   "A": "errors in operation",
+   "B": "errors in design",
+   "C": "errors in accuracy",
+   "D": "errors in requirements"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 120,
+  "question": "Which of the following is not ISO 9126 software quality factors?",
+  "options": {
+   "A": "Portability",
+   "B": "Functionality",
+   "C": "Reliability",
+   "D": "Security"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 121,
+  "question": "Which of the following activities is not part of the software reengineering process model?",
+  "options": {
+   "A": "inventory analysis",
+   "B": "reverse engineering",
+   "C": "forward engineering",
+   "D": "prototyping"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 122,
+  "question": "The Hofstede framework for global engagements includes all of the following dimensions except _________",
+  "options": {
+   "A": "Power distance",
+   "B": "Language Skills",
+   "C": "Uncertainty avoidance",
+   "D": "Masculinity-femininity"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 123,
+  "question": "Which of these is not a benefits achieved when software is restructured?",
+  "options": {
+   "A": "higher quality programs",
+   "B": "software easier to test",
+   "C": "improved performance",
+   "D": "reduced maintenance effort"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 124,
+  "question": "When software configuration management is a formal activity the software configuration audit is conducted by the __________",
+  "options": {
+   "A": "senior managers",
+   "B": "quality assurance group",
+   "C": "test team",
+   "D": "development team"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 125,
+  "question": "Six Sigma methodology defines three core steps, including _________",
+  "options": {
+   "A": "define, measure, control",
+   "B": "define, measure, analyze",
+   "C": "analyze, improve, control",
+   "D": "analyze, design, verify"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 126,
+  "question": "Software reengineering process model does not include restructuring activities for ________",
+  "options": {
+   "A": "code",
+   "B": "organizational structure",
+   "C": "documentation",
+   "D": "data"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 127,
+  "question": "At the end of a formal technical review all attendees can decide to ________",
+  "options": {
+   "A": "modify the work product and continue the review",
+   "B": "reject the product due to stylistic discrepancies",
+   "C": "accept the work product without modification",
+   "D": "advise developer about the problem domain"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 128,
+  "question": "Which of these are not valid software configuration items?",
+  "options": {
+   "A": "test data",
+   "B": "email",
+   "C": "documentation",
+   "D": "Utility programs"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 129,
+  "question": "Which of these is not an example of data restructuring?",
+  "options": {
+   "A": "data name rationalization",
+   "B": "refining entity relationships",
+   "C": "data record standardization",
+   "D": "data analysis"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 130,
+  "question": "Advantages of outsourcing project work may likely include all of the following except _________",
+  "options": {
+   "A": "Shortened project completion",
+   "B": "Reduced costs",
+   "C": "Higher level of expertise",
+   "D": "Reduced conflict"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 131,
+  "question": "Which of the following is not an issue to consider when reverse engineering?",
+  "options": {
+   "A": "directionality",
+   "B": "connectivity",
+   "C": "completeness",
+   "D": "abstraction level"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 132,
+  "question": "A project is a ________ endeavor",
+  "options": {
+   "A": "temporary",
+   "B": "good",
+   "C": "bad",
+   "D": "none is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 133,
+  "question": "Project creates ________ products or services",
+  "options": {
+   "A": "reusable",
+   "B": "unique",
+   "C": "common",
+   "D": "none is correct"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 134,
+  "question": "A project is considered successful when:",
+  "options": {
+   "A": "the product of the project has been manufactured",
+   "B": "the project sponsor announces the completion of the project",
+   "C": "the product of the project is turned over to the operation area to handle the ongoing aspects of the project",
+   "D": "the project meets or exceeds the expectations of the stakeholders"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 135,
+  "question": "Which of these software characteristics are used to determine the scope of a software project",
+  "options": {
+   "A": "context, lines of code, function",
+   "B": "context, function, communication requirements",
+   "C": "information objectives, function, performance",
+   "D": "communication requirements, performance, information objectives"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 136,
+  "question": "Which of the following brings together a set of tools and techniques used to describe, organize and monitor the work of project activities?",
+  "options": {
+   "A": "Project managers",
+   "B": "Guide to the PMBOK",
+   "C": "Project management",
+   "D": "Stakeholders"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 137,
+  "question": "What are the triple constraints?",
+  "options": {
+   "A": "Time, schedules and quality",
+   "B": "Time, availability and quality",
+   "C": "Time, money and schedule",
+   "D": "Time, money and quality"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 138,
+  "question": "Projects have been predetermined",
+  "options": {
+   "A": "Time span",
+   "B": "Budget",
+   "C": "None is correct",
+   "D": "Both time span and budget"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 139,
+  "question": "Feasibility is carried out in",
+  "options": {
+   "A": "Initiation phase",
+   "B": "Definition phase",
+   "C": "Design phase",
+   "D": "Development phase"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 140,
+  "question": "Which of the following principles of project management defines and controls the functions that are to be included in the system?",
+  "options": {
+   "A": "Project Quality Management",
+   "B": "Project Cost Management",
+   "C": "Project Time Management",
+   "D": "Project Scope Management"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 141,
+  "question": "Which of the following are project management processes?",
+  "options": {
+   "A": "Planning and develop processes",
+   "B": "Analyzing and evaluate processes",
+   "C": "Planning and executing processes",
+   "D": "None is correct"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 142,
+  "question": "Your project _________ statement tells you what must be done, how it must be done",
+  "options": {
+   "A": "assumption",
+   "B": "resource",
+   "C": "scope",
+   "D": "constraint and objectives or specification to be met"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 143,
+  "question": "A WBS numbering system allows project staff to",
+  "options": {
+   "A": "systematically estimate costs of WBS elements",
+   "B": "provide project justification",
+   "C": "identify the level at which individual items are found",
+   "D": "use it in the project management software"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 144,
+  "question": "To manage a project effectively, work should be broken down to small pieces. Which of the following does not describe how far to decompose the work?",
+  "options": {
+   "A": "Until it has a meaningful conclusion",
+   "B": "Until it cannot be logically subdivided further",
+   "C": "Until it can be done by one person",
+   "D": "Until it can be realistically estimated"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 145,
+  "question": "If you guess how much time or money you need it is called __________",
+  "options": {
+   "A": "Estimate",
+   "B": "Duration",
+   "C": "Level of effort",
+   "D": "Process"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 146,
+  "question": "Which of the following is not a part of WBS?",
+  "options": {
+   "A": "Activity",
+   "B": "Time",
+   "C": "Tasks",
+   "D": "Steps"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 147,
+  "question": "A project schedule is the _________ of when things will happen in a project",
+  "options": {
+   "A": "Specification",
+   "B": "Order",
+   "C": "Group",
+   "D": "Activity"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 148,
+  "question": "If the activity or task is represented on the node (boxes) it is known as",
+  "options": {
+   "A": "Activity on Node diagram",
+   "B": "Activity on Arrow Diagram",
+   "C": "Task Diagram",
+   "D": "None is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 149,
+  "question": "Estimation techniques depend on the prior ________ and _________ of project managers",
+  "options": {
+   "A": "Age and Experience",
+   "B": "Honesty and Abilities",
+   "C": "Management and Knowledge",
+   "D": "Experience and Domain knowledge"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 150,
+  "question": "________ and _______ will never be an exact science",
+  "options": {
+   "A": "Error and Estimation",
+   "B": "Testing and Maintains cost",
+   "C": "Software cost and Effort estimation",
+   "D": "Software cost and output"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 151,
+  "question": "________ is a systematic attempt to specify threats to the project plan",
+  "options": {
+   "A": "Software sizing",
+   "B": "Risk identification",
+   "C": "Linear models",
+   "D": "COCOMO"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 152,
+  "question": "________ tools implement one or more decomposition techniques or empirical models",
+  "options": {
+   "A": "Automated estimation",
+   "B": "Multiplicative",
+   "C": "Problem-based",
+   "D": "Monitoring"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 153,
+  "question": "SLOC means __________",
+  "options": {
+   "A": "Source Line of Control",
+   "B": "Source Line of Code",
+   "C": "Second Line of Code",
+   "D": "South Line of Code"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 154,
+  "question": "_________ are used for estimation in Large Scale",
+  "options": {
+   "A": "SLOC",
+   "B": "FP",
+   "C": "KSLOC",
+   "D": "SEE"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 155,
+  "question": "_________ are consists of a number of dependent phases that are executed in a sequential order with no feedback loops",
+  "options": {
+   "A": "Multiplicative models",
+   "B": "COCOMO",
+   "C": "Seer-Sem",
+   "D": "Linear Models"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 156,
+  "question": "The project manager should monitor the _________ of the risk mitigation steps",
+  "options": {
+   "A": "Cost",
+   "B": "Abilities",
+   "C": "Activities",
+   "D": "Effectiveness"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 157,
+  "question": "________ are potential threat to every software project",
+  "options": {
+   "A": "Generic risks",
+   "B": "Models",
+   "C": "Estimation",
+   "D": "Problems"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 158,
+  "question": "The project managers identify the ________ that affect software risk components",
+  "options": {
+   "A": "Design",
+   "B": "Risk Drivers",
+   "C": "Area",
+   "D": "Performance"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 159,
+  "question": "Software project scheduling is an activity that distributes _________ across the planned project duration",
+  "options": {
+   "A": "Resource",
+   "B": "Time",
+   "C": "Estimated effort",
+   "D": "Money"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 160,
+  "question": "UCP means __________",
+  "options": {
+   "A": "You case points",
+   "B": "Use case preference",
+   "C": "Use case perfect",
+   "D": "Use case points"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 161,
+  "question": "A task network, also called activity network, is a ___________ of the task flow for a project",
+  "options": {
+   "A": "Slide presentation",
+   "B": "Video",
+   "C": "Graphic representation",
+   "D": "Drawing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 162,
+  "question": "Full for of WBS is",
+  "options": {
+   "A": "With both system",
+   "B": "Work breakdown structure",
+   "C": "Without break structure",
+   "D": "Work bound system"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 163,
+  "question": "Which one of the following best describes analogous estimating?",
+  "options": {
+   "A": "Regression analysis",
+   "B": "Bottom up estimating",
+   "C": "Less accurate",
+   "D": "More accurate"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 164,
+  "question": "You are the project manager for GHG project. You are about to create the cost estimates for the project. Which input to this process will help you the most?",
+  "options": {
+   "A": "Parametric modelling",
+   "B": "WBS",
+   "C": "Project scope",
+   "D": "Requirement document"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 165,
+  "question": "Which one of the following provides the least accurate in estimating?",
+  "options": {
+   "A": "Rough order of magnitude",
+   "B": "Budget estimate",
+   "C": "Definitive estimate",
+   "D": "WBS estimate"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 166,
+  "question": "Which one of the following is true?",
+  "options": {
+   "A": "The cost management plan controls how change management affects the BAC",
+   "B": "The cost management plan controls how cost variances will be managed",
+   "C": "The cost management plan controls how the project manager may update the cost estimates",
+   "D": "The cost management plan controls how the BAC may be adjusted"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 167,
+  "question": "What is the present value if the organization expects to make $100,000 four years from now and the annual interest rate is 6%?",
+  "options": {
+   "A": "$100,000",
+   "B": "$58,000",
+   "C": "$25,000",
+   "D": "Zero"
+  },
+  "answer": "A",
+  "note": "Key tài liệu là $100,000. Tính đúng: 100,000 / 1.06^4 ≈ $79,209 — không lựa chọn nào khớp."
+ },
+ {
+  "id": 168,
+  "question": "You are the project manager for the construction of a new hotel. Before you begin the cost budgeting process, what is needed?",
+  "options": {
+   "A": "Cost estimates and project schedule",
+   "B": "Cost estimates and supporting detail",
+   "C": "EAC and BAC",
+   "D": "Parametric model used to arrive at the costs submitted"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 169,
+  "question": "Of the following, which one is the most reliable source of information for estimating project costs?",
+  "options": {
+   "A": "Historical information from a recently completed project",
+   "B": "An SME’s opinion",
+   "C": "Recollections of team members that have worked on similar projects",
+   "D": "Vendor’s white papers"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 170,
+  "question": "Approximately what percentage of the world’s gross product is spent on projects?",
+  "options": {
+   "A": "10 percent",
+   "B": "25 percent",
+   "C": "50 percent",
+   "D": "75 percent"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 171,
+  "question": "Which of the following is not a potential advantage of using good project management?",
+  "options": {
+   "A": "Shorter development times",
+   "B": "Higher worker morale",
+   "C": "Lower cost of capital",
+   "D": "Higher profit margins"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 172,
+  "question": "A __________ is a temporary endeavor undertaken to create a unique product, service, or result.",
+  "options": {
+   "A": "program",
+   "B": "process",
+   "C": "project",
+   "D": "portfolio"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 173,
+  "question": "Which of the following is not an attribute of a project?",
+  "options": {
+   "A": "projects are unique",
+   "B": "projects are developed using progressive elaboration",
+   "C": "projects have a primary customer or sponsor",
+   "D": "projects involve little uncertainty"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 174,
+  "question": "Which of the following is not part of the triple constraint of project management?",
+  "options": {
+   "A": "meeting scope goals",
+   "B": "meeting time goals",
+   "C": "meeting communications goals",
+   "D": "meeting cost goals"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 175,
+  "question": "______ is the application of knowledge, skills, tools, and techniques to project activities to meet project requirements.",
+  "options": {
+   "A": "Project management",
+   "B": "Program management",
+   "C": "Project portfolio management",
+   "D": "Requirements management"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 176,
+  "question": "Project portfolio management addresses goals of an organization, while project management addresses goals.",
+  "options": {
+   "A": "strategic, tactical",
+   "B": "tactical, strategic",
+   "C": "internal, external",
+   "D": "external, internal"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 177,
+  "question": "Several application development projects done for the same functional group might best be managed as part of a _______",
+  "options": {
+   "A": "portfolio",
+   "B": "program",
+   "C": "investment",
+   "D": "collaborative"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 178,
+  "question": "Which of the following is not true?",
+  "options": {
+   "A": "Most American companies have a project management office.",
+   "B": "You can earn an advanced degree in project management from hundreds of colleges and universities.",
+   "C": "Employers are looking for project management skills in new graduates.",
+   "D": "IT hiring managers reported that project management certification did not affect starting pay."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 179,
+  "question": "What is the name of one of the popular certifications provided by the Project Management Institute?",
+  "options": {
+   "A": "Certified Project Manager (CPM)",
+   "B": "Project Management Professional (PMP)",
+   "C": "Project Management Expert (PME)",
+   "D": "Project Management Mentor (PMM)"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 180,
+  "question": "Accountants usually define _______ as a resource sacrificed or foregone to achieve a specific objective or something given up in exchange.",
+  "options": {
+   "A": "money",
+   "B": "reliability",
+   "C": "trade",
+   "D": "cost"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 181,
+  "question": "What is the main goal of project cost management ?",
+  "options": {
+   "A": "to complete a project for as little cost as possible",
+   "B": "to complete a project within an approved budget",
+   "C": "to provide truthful and accurate cost information on projects",
+   "D": "to ensure that an organization’s money is used wisely"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 182,
+  "question": "Which of the following is not an output of estimating costs ?",
+  "options": {
+   "A": "activity cost estimates",
+   "B": "a cost baseline",
+   "C": "basis of estimates",
+   "D": "project documents updates"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 183,
+  "question": "If a company loses $5 for every $100 in revenue for a certain product, what is the profit margin for that product ?",
+  "options": {
+   "A": "-5%",
+   "B": "5%",
+   "C": "-$5",
+   "D": "$5"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 184,
+  "question": "________ reserves allow for future situations that are unpredictable.",
+  "options": {
+   "A": "Contingency",
+   "B": "Financial",
+   "C": "Management",
+   "D": "Baseline"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 185,
+  "question": "You are preparing a cost estimate for a building based on its location, purpose, number of square feet, and other characteristics. What cost-estimating technique are you using ?",
+  "options": {
+   "A": "parametric",
+   "B": "analogous",
+   "C": "bottom-up",
+   "D": "top-down"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 186,
+  "question": "________ involves allocating the project cost estimate to individual material resources or work items over time.",
+  "options": {
+   "A": "Reserve analysis",
+   "B": "Life cycle costing",
+   "C": "Project cost budgeting",
+   "D": "Earned value analysis"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 187,
+  "question": "_______ is a project performance measurement technique that integrates scope, time, and cost data.",
+  "options": {
+   "A": "Reserve analysis",
+   "B": "Life cycle costing",
+   "C": "Project cost budgeting",
+   "D": "Earned value management"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 188,
+  "question": "If the actual cost for a WBS item is $1,500 and its earned value is $2,000, what is its cost variance, and is it under or over budget ?",
+  "options": {
+   "A": "The cost variance is -$500, which is over budget.",
+   "B": "The cost variance is -$500, which is under budget.",
+   "C": "The cost variance is $500, which is over budget.",
+   "D": "The cost variance is $500, which is under budget."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 189,
+  "question": "If a project is halfway completed, its schedule performance index is 110%, and its cost performance index is 95%, how is it progressing ?",
+  "options": {
+   "A": "It is ahead of schedule and under budget.",
+   "B": "It is ahead of schedule and over budget.",
+   "C": "It is behind schedule and under budget.",
+   "D": "It is behind schedule and over budget."
+  },
+  "answer": "A"
+ },
+ {
+  "id": 190,
+  "question": "Which of the following is not part of the three-sphere model for systems management?",
+  "options": {
+   "A": "business",
+   "B": "information",
+   "C": "technology",
+   "D": "organization"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 191,
+  "question": "Which of the four frames of organizations addresses how meetings are run, employee dress codes, and expected work hours?",
+  "options": {
+   "A": "structural",
+   "B": "human resources",
+   "C": "political",
+   "D": "symbolic"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 192,
+  "question": "Personnel in a organizational structure often report to two or more bosses.",
+  "options": {
+   "A": "functional",
+   "B": "project",
+   "C": "matrix",
+   "D": "hybrid"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 193,
+  "question": "Project work is most successful in an organizational culture where all of the following characteristics are important except",
+  "options": {
+   "A": "member identity",
+   "B": "group emphasis",
+   "C": "risk tolerance",
+   "D": "control"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 194,
+  "question": "A _______ is a product or service, such as a technical report, a training session, or hardware, produced or provided as part of a project.",
+  "options": {
+   "A": "deliverable",
+   "B": "product",
+   "C": "work package",
+   "D": "tangible goal"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 195,
+  "question": "Which of the following statements is false?",
+  "options": {
+   "A": "An analysis project life cycle is a collection of project phases.",
+   "B": "A product life cycle is the same as a project life cycle.",
+   "C": "The waterfall approach is an example of a predictive life cycle model.",
+   "D": "Agile is an example of an adaptive life cycle model."
+  },
+  "answer": "B"
+ },
+ {
+  "id": 196,
+  "question": "Which of the following terms describes a framework of the phases involved in developing information systems?",
+  "options": {
+   "A": "systems development life cycle",
+   "B": "rapid application development",
+   "C": "predictive life cycle",
+   "D": "extreme programming"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 197,
+  "question": "The nature of software projects is different from projects in many other industries because they are very",
+  "options": {
+   "A": "expensive",
+   "B": "technical",
+   "C": "diverse",
+   "D": "challenging"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 198,
+  "question": "What term describes an organization’s acquisition of goods and services from an outside source in another country?",
+  "options": {
+   "A": "globalization",
+   "B": "offshoring",
+   "C": "exporting",
+   "D": "global sourcing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 199,
+  "question": "_______ is the leading Agile development method.",
+  "options": {
+   "A": "Extreme programming",
+   "B": "Sprint",
+   "C": "Six sigma",
+   "D": "Scrum"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 200,
+  "question": "A ______ is a series of actions directed toward a particular result.",
+  "options": {
+   "A": "goal",
+   "B": "process",
+   "C": "plan",
+   "D": "project"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 201,
+  "question": "______ processes include coordinating people and other resources to carry out project plans and create the products, services, or results of the project or phase.",
+  "options": {
+   "A": "Initiating",
+   "B": "Planning",
+   "C": "Executing",
+   "D": "Monitoring and controlling",
+   "E": "Closing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 202,
+  "question": "Which process group normally requires the most resources and time?",
+  "options": {
+   "A": "Initiating",
+   "B": "Planning",
+   "C": "Executing",
+   "D": "Monitoring and controlling",
+   "E": "Closing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 203,
+  "question": "What methodology was developed in the United Kingdom, defines 45 separate subprocesses, and organizes them into eight process groups?",
+  "options": {
+   "A": "Six Sigma",
+   "B": "RUP",
+   "C": "PMBOK® Guide",
+   "D": "PRINCE2"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 204,
+  "question": "Which of the following outputs is often completed before initiating a project?",
+  "options": {
+   "A": "stakeholder register",
+   "B": "business case",
+   "C": "project charter",
+   "D": "kick-off meeting"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 205,
+  "question": "A work breakdown structure, project schedule, and cost estimates are outputs of the ______ process.",
+  "options": {
+   "A": "initiating",
+   "B": "planning",
+   "C": "executing",
+   "D": "monitoring and controlling",
+   "E": "closing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 206,
+  "question": "Initiating involves developing a project charter, which is part of the project ______ management knowledge area.",
+  "options": {
+   "A": "integration",
+   "B": "scope",
+   "C": "communications",
+   "D": "risk"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 207,
+  "question": "______ involves measuring progress toward project objectives and taking corrective actions.",
+  "options": {
+   "A": "Initiating",
+   "B": "Planning",
+   "C": "Executing",
+   "D": "Monitoring and controlling",
+   "E": "Closing"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 208,
+  "question": "Which of the following is not a typical reason that project teams would use a predictive approach versus an agile approach to managing a project?",
+  "options": {
+   "A": "The project has unclear up-front requirements.",
+   "B": "The project team is inexperienced and dispersed.",
+   "C": "Large risks are involved.",
+   "D": "The completion date is fairly rigid."
+  },
+  "answer": "A"
+ },
+ {
+  "id": 209,
+  "question": "Many people use ______ to have a standard format for preparing various project management documents.",
+  "options": {
+   "A": "methodologies",
+   "B": "templates",
+   "C": "project management software",
+   "D": "standards"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 210,
+  "question": "Which of the following processes is not part of project integration management?",
+  "options": {
+   "A": "developing the project business case",
+   "B": "developing the project charter",
+   "C": "developing the project management plan",
+   "D": "closing the project or phase"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 211,
+  "question": "What is the last step in the four-stage planning process for selecting software projects?",
+  "options": {
+   "A": "software strategy planning",
+   "B": "business area analysis",
+   "C": "mind mapping",
+   "D": "resource allocation"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 212,
+  "question": "Which of the following is not a best practice for new product development projects?",
+  "options": {
+   "A": "aligning projects and resources with business strategy",
+   "B": "selecting projects that will take less than two years to provide payback",
+   "C": "focusing on customer needs in identifying projects",
+   "D": "assigning project managers to lead projects"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 213,
+  "question": "A new government law requires an organization to report data in a new way. Which of the following categories would include a new information system project to provide this data?",
+  "options": {
+   "A": "problem",
+   "B": "opportunity",
+   "C": "directive",
+   "D": "regulation"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 214,
+  "question": "If estimates for total discounted benefits for a project are $120,000 and total discounted costs are $100,000, what is the estimated return on investment (ROI)?",
+  "options": {
+   "A": "$20,000",
+   "B": "$120,000",
+   "C": "20 percent",
+   "D": "120 percent"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 215,
+  "question": "Which of the following items is not normally included in a project charter?",
+  "options": {
+   "A": "the name of the project manager",
+   "B": "budget information",
+   "C": "stakeholder signatures",
+   "D": "a Gantt chart"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 216,
+  "question": "________ ensures that the descriptions of the project’s products are correct and complete.",
+  "options": {
+   "A": "Configuration management",
+   "B": "Integrated change control",
+   "C": "Integration management",
+   "D": "A change control board"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 217,
+  "question": "Which of the following is not a suggestion for performing integrated change control?",
+  "options": {
+   "A": "use good configuration management",
+   "B": "minimize change",
+   "C": "establish a formal change control system",
+   "D": "view project management as a process of constant communication and negotiation"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 218,
+  "question": "What tool and technique is used for all processes of project integration management?",
+  "options": {
+   "A": "project management software",
+   "B": "templates",
+   "C": "expert judgment",
+   "D": "all of the above"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 219,
+  "question": "______ refer(s) to all the work involved in creating the products of the project and the processes used to create them.",
+  "options": {
+   "A": "Deliverables",
+   "B": "Milestones",
+   "C": "Scope",
+   "D": "Product development"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 220,
+  "question": "Which tool or technique for collecting requirements is often the most expensive and time consuming?",
+  "options": {
+   "A": "interviews",
+   "B": "focus groups",
+   "C": "surveys",
+   "D": "observation"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 221,
+  "question": "A ______ is a deliverable-oriented grouping of the work involved in a project that defines its total scope.",
+  "options": {
+   "A": "scope statement",
+   "B": "WBS",
+   "C": "WBS dictionary",
+   "D": "work package"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 222,
+  "question": "What approach to developing a WBS involves writing down or drawing ideas in a nonlinear format?",
+  "options": {
+   "A": "top-down",
+   "B": "bottom-up",
+   "C": "analogy",
+   "D": "mind mapping"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 223,
+  "question": "Assume that you have a project with major categories called planning, analysis, design, and testing. What level of the WBS would these items fall under?",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 224,
+  "question": "Which of the following is not a best practice that can help in avoiding scope problems on IT projects?",
+  "options": {
+   "A": "Keep the scope realistic.",
+   "B": "Use off-the-shelf hardware and software whenever possible.",
+   "C": "Follow good project management processes.",
+   "D": "Don’t involve too many users in scope management."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 225,
+  "question": "Why did McDonald’s terminate a large project after spending $170 million on it?",
+  "options": {
+   "A": "The company found a better technology.",
+   "B": "The company decided to outsource the work.",
+   "C": "The scope was too much to handle.",
+   "D": "The government requirement that prompted the project was repealed."
+  },
+  "answer": "C"
+ },
+ {
+  "id": 226,
+  "question": "Scope ______ is often achieved by a customer inspection and then sign-off on key deliverables.",
+  "options": {
+   "A": "acceptance",
+   "B": "validation",
+   "C": "completion",
+   "D": "close-out"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 227,
+  "question": "Which of the following is not a suggestion for improving user input?",
+  "options": {
+   "A": "Develop a good project selection process for software projects.",
+   "B": "Have users on the project team.",
+   "C": "Co-locate users with developers.",
+   "D": "Only have meetings as needed, not on a regular basis."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 228,
+  "question": "Project management software helps you develop a ______, which serves as a basis for creating Gantt charts, assigning resources, and allocating costs.",
+  "options": {
+   "A": "project plan",
+   "B": "schedule",
+   "C": "WBS",
+   "D": "Deliverable"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 229,
+  "question": "Which of the following processes involves determining the policies, procedures, and documentation that will be used for planning, executing, and controlling the project schedule?",
+  "options": {
+   "A": "planning schedule management",
+   "B": "defining activities",
+   "C": "estimating activity resources",
+   "D": "activity sequencing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 230,
+  "question": "Predecessors, successors, logical relationships, leads and lags, resource requirements, constraints, imposed dates, and assumptions are all examples of",
+  "options": {
+   "A": "items in an activity list",
+   "B": "items on a Gantt chart",
+   "C": "milestone attributes",
+   "D": "activity attributes"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 231,
+  "question": "You cannot start editing a technical report until someone else completes the first draft. What type of dependency does this represent?",
+  "options": {
+   "A": "finish-to-start",
+   "B": "start-to-start",
+   "C": "finish-to-finish",
+   "D": "start-to-finish"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 232,
+  "question": "Which of the following statements is false?",
+  "options": {
+   "A": "A resource breakdown structure is a hierarchical structure that identifies the project’s resources by category and type.",
+   "B": "Duration and effort are synonymous terms.",
+   "C": "A three-point estimate includes an optimistic, most likely, and pessimistic estimate.",
+   "D": "A Gantt chart is a common tool for displaying project schedule information."
+  },
+  "answer": "B"
+ },
+ {
+  "id": 233,
+  "question": "What symbol on a Gantt chart represents a slipped milestone?",
+  "options": {
+   "A": "a black arrow",
+   "B": "a white arrow",
+   "C": "a black diamond",
+   "D": "a white diamond"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 234,
+  "question": "What type of diagram shows planned and actual project schedule information?",
+  "options": {
+   "A": "a network diagram",
+   "B": "a Gantt chart",
+   "C": "a Tracking Gantt chart",
+   "D": "a milestone chart"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 235,
+  "question": "_________ is a network diagramming technique used to predict total project duration.",
+  "options": {
+   "A": "PERT",
+   "B": "A Gantt chart",
+   "C": "Critical path method",
+   "D": "Crashing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 236,
+  "question": "Which of the following statements is false?",
+  "options": {
+   "A": "Growing grass was on the critical path for a large theme park project.",
+   "B": "The critical path is the series of activities that determine the earliest time by which a project can be completed.",
+   "C": "A forward pass through a project network diagram determines the early start and early finish dates for each activity.",
+   "D": "Fast tracking is a technique for making cost and schedule trade-offs to obtain the greatest amount of schedule compression for the least incremental cost."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 237,
+  "question": "________ is a method of scheduling that considers limited resources when creating a project schedule and includes buffers to protect the project completion date.",
+  "options": {
+   "A": "Parkinson’s Law",
+   "B": "Murphy’s Law",
+   "C": "Critical path analysis",
+   "D": "Critical chain scheduling"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 238,
+  "question": "_______ is the degree to which a set of inherent characteristics fulfills requirements.",
+  "options": {
+   "A": "Quality",
+   "B": "Conformance to requirements",
+   "C": "Fitness for use",
+   "D": "Reliability"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 239,
+  "question": "What is the purpose of project quality management?",
+  "options": {
+   "A": "to produce the highest-quality products and services possible",
+   "B": "to ensure that appropriate quality standards are met",
+   "C": "to ensure that the project will satisfy the needs for which it was undertaken",
+   "D": "all of the above"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 240,
+  "question": "What does the term kaizen mean?",
+  "options": {
+   "A": "minimize waste",
+   "B": "maximize value",
+   "C": "do it right the first time",
+   "D": "improvement"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 241,
+  "question": "What tool can you use to determine whether a process is in control or out of control?",
+  "options": {
+   "A": "a cause-and-effect diagram",
+   "B": "a control chart",
+   "C": "a run chart",
+   "D": "a control panel diagram"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 242,
+  "question": "Six Sigma’s target for perfection is the achievement of no more than defects, errors, or mistakes per million opportunities.",
+  "options": {
+   "A": "6",
+   "B": "9",
+   "C": "3.4",
+   "D": "1"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 243,
+  "question": "What is the preferred order for performing testing on software projects?",
+  "options": {
+   "A": "unit testing, integration testing, system testing, user acceptance testing",
+   "B": "unit testing, system testing, integration testing, user acceptance testing",
+   "C": "unit testing, system testing, user acceptance testing, integration testing",
+   "D": "unit testing, integration testing, user acceptance testing, system testing"
+  },
+  "answer": "D",
+  "note": "Key tài liệu đặt UAT trước system testing, nhưng thứ tự chuẩn là unit → integration → system → UAT."
+ },
+ {
+  "id": 244,
+  "question": "PMI’s OPM3 is an example of a model or framework for helping organizations improve their processes and systems.",
+  "options": {
+   "A": "benchmarking",
+   "B": "Six Sigma",
+   "C": "maturity",
+   "D": "quality"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 245,
+  "question": "Which of the following is not part of project human resource management?",
+  "options": {
+   "A": "resource estimating",
+   "B": "acquiring the project team",
+   "C": "developing the project team",
+   "D": "managing the project team"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 246,
+  "question": "A maps the work of a project, as described in the WBS, to the people responsible for performing the work.",
+  "options": {
+   "A": "project organizational chart",
+   "B": "work definition and assignment process",
+   "C": "resource histogram",
+   "D": "responsibility assignment matrix"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 247,
+  "question": "A staffing management plan often includes a resource , which is a column chart that shows the number of resources assigned to the project over time.",
+  "options": {
+   "A": "chart",
+   "B": "graph",
+   "C": "histogram",
+   "D": "timeline"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 248,
+  "question": "What technique can you use to resolve resource conflicts by delaying tasks?",
+  "options": {
+   "A": "resource loading",
+   "B": "resource leveling",
+   "C": "critical path analysis",
+   "D": "overallocation"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 249,
+  "question": "What are the five stages in Tuckman’s model of team development, in chronological order?",
+  "options": {
+   "A": "forming, storming, norming, performing, and adjourning",
+   "B": "storming, forming, norming, performing, and adjourning",
+   "C": "norming, forming, storming, performing, and adjourning",
+   "D": "forming, storming, performing, norming, and adjourning"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 250,
+  "question": "Which of the following is not a tool or technique for managing project teams?",
+  "options": {
+   "A": "observation and conversation",
+   "B": "project performance appraisals",
+   "C": "conflict management",
+   "D": "Social Styles Profile"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 251,
+  "question": "What do many experts agree is the greatest threat to the success of any project?",
+  "options": {
+   "A": "lack of proper funding",
+   "B": "a failure to communicate",
+   "C": "poor listening skills",
+   "D": "inadequate staffing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 252,
+  "question": "Which of the following is not a process in project communications management?",
+  "options": {
+   "A": "planning communications management",
+   "B": "controlling communications",
+   "C": "managing communications",
+   "D": "managing stakeholders"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 253,
+  "question": "What strategy can a project manager use to deliver bad news?",
+  "options": {
+   "A": "Tell a joke first.",
+   "B": "Tell senior management as soon as possible so they can develop alternatives and recommendations.",
+   "C": "Ask the project champion to deliver the news.",
+   "D": "Set the stage by putting the news into context, emphasizing the impact on the bottom line."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 254,
+  "question": "If you add three more people to a project team of five, how many more communication channels will you add?",
+  "options": {
+   "A": "2",
+   "B": "12",
+   "C": "15",
+   "D": "18"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 255,
+  "question": "A(n) ________ report describes where a project stands at a specific point in time.",
+  "options": {
+   "A": "status",
+   "B": "performance",
+   "C": "forecast",
+   "D": "earned value"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 256,
+  "question": "What term describes information that is sent to recipients at their request via Web sites, bulletin boards, e-learning, knowledge repositories like blogs, and other means?",
+  "options": {
+   "A": "push communications",
+   "B": "pull communications",
+   "C": "interactive communications",
+   "D": "customer communications"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 257,
+  "question": "Which of the following is not a recommendation for improving project communications?",
+  "options": {
+   "A": "You cannot overcommunicate.",
+   "B": "Project managers and their teams should take time to develop their communications skills.",
+   "C": "Do not use facilitators or experts outside of the project team to communicate important information.",
+   "D": "Use templates to help prepare project documents."
+  },
+  "answer": "C"
+ },
+ {
+  "id": 258,
+  "question": "A _______ report is a reflective statement that documents important information learned from working on the project.",
+  "options": {
+   "A": "final project",
+   "B": "lessons-learned",
+   "C": "project archive",
+   "D": "progress"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 259,
+  "question": "_______ is an uncertainty that can have a negative or positive effect on meeting project objectives.",
+  "options": {
+   "A": "Risk utility",
+   "B": "Risk tolerance",
+   "C": "Risk management",
+   "D": "Risk"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 260,
+  "question": "Which risk management process involves prioritizing risks based on their probability and impact of occurrence?",
+  "options": {
+   "A": "planning risk management",
+   "B": "identifying risks",
+   "C": "performing qualitative risk analysis",
+   "D": "performing quantitative risk analysis"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 261,
+  "question": "Your project involves using a new release of a common software application, but if that release is not available, your team has ________ plans to use the current release.",
+  "options": {
+   "A": "contingency",
+   "B": "fallback",
+   "C": "reserve",
+   "D": "mitigation"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 262,
+  "question": "Which risk identification tool involves deriving a consensus among a panel of experts by using anonymous input regarding future events?",
+  "options": {
+   "A": "risk breakdown structure",
+   "B": "brainstorming",
+   "C": "interviewing",
+   "D": "Delphi technique"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 263,
+  "question": "A risk _______ is a document that contains results of various risk management processes, and is often displayed in a table or spreadsheet format.",
+  "options": {
+   "A": "management plan",
+   "B": "register",
+   "C": "breakdown structure",
+   "D": "probability/impact matrix"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 264,
+  "question": "________ are indicators or symptoms of actual risk events, such as a cost overrun on early activities being a symptom of poor cost estimates.",
+  "options": {
+   "A": "Probabilities",
+   "B": "Impacts",
+   "C": "Watch list items",
+   "D": "Triggers"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 265,
+  "question": "Suppose there is a 30% chance that you will lose $10,000 and a 70% chance that you will earn $100,000 on a p project. What is the project’s estimated monetary value?",
+  "options": {
+   "A": "$30,000",
+   "B": "$70,000",
+   "C": "$67,000",
+   "D": "$67,000"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 266,
+  "question": "________ is a quantitative risk analysis tool that uses a model of a system to analyze its expected behavior or performance.",
+  "options": {
+   "A": "Simulation",
+   "B": "Sensitivity analysis",
+   "C": "Monte Carlo analysis",
+   "D": "EMV"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 267,
+  "question": "Your project team has decided not to use an upcoming release of software because it might cause your schedule to slip. Which negative risk response strategy are you using?",
+  "options": {
+   "A": "avoidance",
+   "B": "acceptance",
+   "C": "transference",
+   "D": "mitigation"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 268,
+  "question": "What is the top reason for global outsourcing of software services?",
+  "options": {
+   "A": "cost reduction",
+   "B": "a shortage of qualified personnel",
+   "C": "decreasing time to market",
+   "D": "increasing revenues"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 269,
+  "question": "Your organization hired a specialist in a certain field to provide training for a short period of time. Which reason for outsourcing would this example fall under?",
+  "options": {
+   "A": "reducing costs",
+   "B": "allowing the client organization to focus on its core business",
+   "C": "accessing skills and technologies",
+   "D": "providing flexibility"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 270,
+  "question": "In which project procurement management process is an RFP often written?",
+  "options": {
+   "A": "planning procurement management",
+   "B": "conducting procurements",
+   "C": "controlling procurements",
+   "D": "selecting sellers"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 271,
+  "question": "Which type of contract has the least amount of risk for the buyer?",
+  "options": {
+   "A": "fixed-price",
+   "B": "cost plus incentive fee (CPIF)",
+   "C": "time and material",
+   "D": "cost plus fixed fee (CPFF)"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 272,
+  "question": "The _________ is the point at which the contractor assumes total responsibility for each additional dollar of contract cost.",
+  "options": {
+   "A": "breakeven point",
+   "B": "Share Ratio Point",
+   "C": "Point of Reconciliation",
+   "D": "Point of Total Assumption"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 273,
+  "question": "If your college or university wanted to get information from potential sellers for providing a new sports stadium, what type of document would be required of the potential sellers?",
+  "options": {
+   "A": "RFP",
+   "B": "RFQ",
+   "C": "proposal",
+   "D": "quote"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 274,
+  "question": "A proposal evaluation sheet is an example of a(n) _______",
+  "options": {
+   "A": "RFP",
+   "B": "NPV analysis",
+   "C": "earned value analysis",
+   "D": "weighted scoring model"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 275,
+  "question": "________ is a term used to describe various procurement functions that are now done electronically.",
+  "options": {
+   "A": "E-procurement",
+   "B": "eBay",
+   "C": "E-commerce",
+   "D": "EMV"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 276,
+  "question": "How many stages in project management ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 277,
+  "question": "Which stage that Risk Management belongs to ?",
+  "options": {
+   "A": "Performance and Control",
+   "B": "Conception and Initiation",
+   "C": "Launch or Execution",
+   "D": "Definition and Planning"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 278,
+  "question": "How many categories of software projects ?",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 279,
+  "question": "How many software project tasks?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 280,
+  "question": "How many software project challenges ?",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 281,
+  "question": "How many impact of challenges on software project ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 282,
+  "question": "How many requirement for a successful software project manager ?",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 283,
+  "question": "How many software product implementation initiation tasks ?",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 284,
+  "question": "What is the main advantage of project management ?",
+  "options": {
+   "A": "To help you manage your projects effectively, enable you to resolve problems more quickly",
+   "B": "To improve productivity and quality of work",
+   "C": "To improve your chances of achieving the desired result",
+   "D": "To stay on schedule and keep costs and resources to budget"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 285,
+  "question": "Depending on the software lifecycle chosen, the project plan may vary",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 286,
+  "question": "In project planning, the main tasks that are to be planned are _________",
+  "options": {
+   "A": "Project management processes",
+   "B": "Software lifecycle processes",
+   "C": "Software engineering processes",
+   "D": "Software development processes"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 287,
+  "question": "How many processes in software engineering ?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 288,
+  "question": "How many stages in a software development lifecycle ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 289,
+  "question": "How many stages in a software configuration management ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 290,
+  "question": "Which is the third stage of Waterfall Model ?",
+  "options": {
+   "A": "Coding",
+   "B": "Design",
+   "C": "Testing",
+   "D": "Specification"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 291,
+  "question": "What is the advantage of structuring software development into a defined process model ?",
+  "options": {
+   "A": "It sharpens focus",
+   "B": "It provides progress visibility",
+   "C": "It supports planning and control",
+   "D": "All is correct"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 292,
+  "question": "What does KPI stand for ?",
+  "options": {
+   "A": "Key Performance Index",
+   "B": "Key Performance Industry",
+   "C": "Key Product Index",
+   "D": "Key Progress Industry"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 293,
+  "question": "How many primary phases in cost management ?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 294,
+  "question": "Which is not a primary phase in cost management ?",
+  "options": {
+   "A": "Cost estimating",
+   "B": "Cost control",
+   "C": "Cost budgeting",
+   "D": "Cost validating"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 295,
+  "question": "Costs or benefits that an organization can easily measure in dollars :",
+  "options": {
+   "A": "Tangible costs",
+   "B": "Intangible costs",
+   "C": "Direct costs",
+   "D": "Indirect costs"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 296,
+  "question": "Learning curve theory states that ________",
+  "options": {
+   "A": "Less items are produced repetitively, the unit cost of those items decreases in a regular pattern as less units are produced",
+   "B": "Many items are produced repetitively, the unit cost of those items decreases in a regular pattern as more units are produced",
+   "C": "Many items are produced repetitively, the unit cost of those items increases in a regular pattern as more units are produced",
+   "D": "Less items are produced repetitively, the unit cost of those items increases in a regular pattern as more units are produced"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 297,
+  "question": "What does PERT stand for ?",
+  "options": {
+   "A": "Program Evaluation and Review Technique",
+   "B": "Product Evaluation and Review Technique",
+   "C": "Product Estimation and Revision Technique",
+   "D": "Process Evaluation and Review Technique"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 298,
+  "question": "What does COCOMO stand for ?",
+  "options": {
+   "A": "Contrast Compare Mapping",
+   "B": "Constructive Cost Management",
+   "C": "Conflict Compare Manufacturing",
+   "D": "Constructive Cost Model"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 299,
+  "question": "What does WBS stand for ?",
+  "options": {
+   "A": "Work Broken Strategy",
+   "B": "Work Breakdown Structure",
+   "C": "Work Broken Structure",
+   "D": "Work Behavior Strategy"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 300,
+  "question": "What does EVM stand for ?",
+  "options": {
+   "A": "Exercise Vector Modification",
+   "B": "Earned Victory Movement",
+   "C": "Estimated Value Management",
+   "D": "Earned Value Management"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 301,
+  "question": "How many levels in Project Portfolio Management ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 302,
+  "question": "What is the correct formula to calculate CPI ?",
+  "options": {
+   "A": "CPI = EV/AC",
+   "B": "CPI = AC/EV",
+   "C": "CPI = EV/PV",
+   "D": "CPI = EV-AC"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 303,
+  "question": "What is the different name of PERT technique ?",
+  "options": {
+   "A": "Parametric Modelling",
+   "B": "Bottom-up Estimating",
+   "C": "Three Point Estimates",
+   "D": "Analogous Estimating"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 304,
+  "question": "Which is not an input for bottom-up approach of project planning ?",
+  "options": {
+   "A": "Requirements",
+   "B": "Project cost",
+   "C": "Project scope",
+   "D": "Software engineering"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 305,
+  "question": "Which is not an output for bottom-up approach of project planning ?",
+  "options": {
+   "A": "Defect prevention",
+   "B": "Service level agreements",
+   "C": "WBS structure",
+   "D": "Resource allocation"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 306,
+  "question": "What does CPM stand for ?",
+  "options": {
+   "A": "Critical Path Method",
+   "B": "Crucial Permission Management",
+   "C": "Critical Permission Method",
+   "D": "Capability Product Management"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 307,
+  "question": "___________ uses project characteristics in a mathematical model to estimate projects costs",
+  "options": {
+   "A": "Parametric modelling",
+   "B": "Three point estimates",
+   "C": "Activity based costing",
+   "D": "Top-down estimates"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 308,
+  "question": "Which is not a result of parametric modelling ?",
+  "options": {
+   "A": "Risk profile",
+   "B": "Lifecycle costs",
+   "C": "Cost by activity",
+   "D": "GUI metrics"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 309,
+  "question": "Which is not 1 of 3 point estimates ?",
+  "options": {
+   "A": "Complexity",
+   "B": "Optimistic",
+   "C": "Realistic",
+   "D": "Pessimistic"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 310,
+  "question": "What is the formula to calculate profit ?",
+  "options": {
+   "A": "Profit = Revenue + Expense",
+   "B": "Profit = Revenue - Expense",
+   "C": "Profit = Expense - Revenue",
+   "D": "Profit = Expense / Revenue"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 311,
+  "question": "In the case of product development by software vendors, the project management is a bottom-up approach, and in the case of custom software development, it is a top-down approach.",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 312,
+  "question": "How many steps to be performed in project planning ?",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 313,
+  "question": "Which is not a step in project planning ?",
+  "options": {
+   "A": "Cost estimates",
+   "B": "Scheduling",
+   "C": "Milestone identification",
+   "D": "Time estimates"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 314,
+  "question": "WBS is used to break your project down into lower and lower levels of detail",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 315,
+  "question": "__________ are significant steps towards the completion of a project",
+  "options": {
+   "A": "Gannt Charts",
+   "B": "PERTs",
+   "C": "Activities",
+   "D": "Milestones"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 316,
+  "question": "How many forms of activity network were developed in activity sequencing ?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 317,
+  "question": "CPM is used to find out the shortest route through the project network",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 318,
+  "question": "__________ is a technique that can help you when your project is not all clear",
+  "options": {
+   "A": "Rolling wave planning",
+   "B": "Re-planning",
+   "C": "Scheduling",
+   "D": "Activity sequencing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 319,
+  "question": "__________ diagrams represent the tasks that you are performing in your project as nodes connected by arrows",
+  "options": {
+   "A": "Activity-on-the-arrow",
+   "B": "Activity-on-the-node",
+   "C": "Activity-on-the-task",
+   "D": "Activity-on-the-network"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 320,
+  "question": "To identify milestones, you should focus on your projects’ __________ and identify any key stages that appear to be significant breakthroughs in your project’s progress",
+  "options": {
+   "A": "CPI",
+   "B": "PERT",
+   "C": "CPM",
+   "D": "WBS"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 321,
+  "question": "__________ uses the actual cost of a previous, similar project as the basis for estimating the cost of the current project",
+  "options": {
+   "A": "Top-down estimates",
+   "B": "Bottom-up estimates",
+   "C": "Parametric estimates",
+   "D": "Three point estimates"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 322,
+  "question": "Risks can be divided into _______ categories",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 323,
+  "question": "If a risk to the project arises due to an aspect being dealt with by the project team, then it is an ________",
+  "options": {
+   "A": "Internal risk",
+   "B": "External risk",
+   "C": "None is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 324,
+  "question": "How many major risk types ?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 325,
+  "question": "Which is not a major risk type ?",
+  "options": {
+   "A": "Resource risk",
+   "B": "Budget risk",
+   "C": "Scope risk",
+   "D": "Time risk"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 326,
+  "question": "Meeting quality requirements is a big risk for all projects",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 327,
+  "question": "Due to the time management error, the requirements or design, or the construction may get injected with defects",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 328,
+  "question": "How many major causes of risks ?",
+  "options": {
+   "A": "7",
+   "B": "8",
+   "C": "9",
+   "D": "10"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 329,
+  "question": "___________ are the most costly resources in software projects",
+  "options": {
+   "A": "Team members",
+   "B": "Facilities and equipment",
+   "C": "Supplies and material",
+   "D": "Services"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 330,
+  "question": "To deal with quality risks, the best policy is to have a check for quality integrated in the project schedule itself",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 331,
+  "question": "Almost projects can be executed 100% as per the project plan",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 332,
+  "question": "Using a Waterfall model to execute your project is a big risk",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 333,
+  "question": "Wrong budget estimate of a task",
+  "options": {
+   "A": "Medium probability – Medium impact",
+   "B": "High probability - High impact",
+   "C": "High probability - Medium impact",
+   "D": "Medium probability - High impact"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 334,
+  "question": "Which SDLC model is well-suited to projects that have low-risks in user interface and performance but high-risks in terms of schedule and control ?",
+  "options": {
+   "A": "Prototyping",
+   "B": "Agile",
+   "C": "Waterfall model",
+   "D": "Incremental"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 335,
+  "question": "Which SDLC model is most suitable for the systems in which requirements are generally clear and system can be divided into many intermediate deliverables ?",
+  "options": {
+   "A": "Prototyping",
+   "B": "Agile",
+   "C": "Waterfall model",
+   "D": "Incremental"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 336,
+  "question": "Which SDLC model is useful in projects that have high risk in term of user interface design and uncertainties in user requirements ?",
+  "options": {
+   "A": "Prototyping",
+   "B": "Agile",
+   "C": "Waterfall model",
+   "D": "Incremental"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 337,
+  "question": "Taking many effort and commitment to develop something that you are going to discard. This is one of the disadvantage of:",
+  "options": {
+   "A": "Agile",
+   "B": "Waterfall model",
+   "C": "Incremental",
+   "D": "Prototyping"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 338,
+  "question": "The main difference between Waterfall model and stage-wise model is that is allowed unlimited iteration between stages",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 339,
+  "question": "It often does not match the user’s requirements – It is rejected or require extensive development. This is one of the disadvantage of:",
+  "options": {
+   "A": "Agile",
+   "B": "Waterfall model",
+   "C": "Build-and-Fix model",
+   "D": "Prototyping"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 340,
+  "question": "Which SDLC model refers to approach to software development that reduce risk by delivering software systems in shorts bursts or releases ?",
+  "options": {
+   "A": "Agile",
+   "B": "Waterfall model",
+   "C": "Incremental",
+   "D": "Throw-away prototyping"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 341,
+  "question": "For student projects, a comprehensive configuration management system in unnecessary",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 342,
+  "question": "An activity network can be used to identify the order in which you should perform that work",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 343,
+  "question": "The number of milestones that you will identify for your project is unique regardless of project’s size",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 344,
+  "question": "Many organizations assert that using project management provides advantages, such as _________",
+  "options": {
+   "A": "lower profit margins",
+   "B": "lower costs",
+   "C": "less internal coordination",
+   "D": "lower worker morale"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 345,
+  "question": "Because a project requires resources, often from various areas, many projects cross ____ or other boundaries to achieve their unique purposes.",
+  "options": {
+   "A": "financial",
+   "B": "spatial",
+   "C": "departmental",
+   "D": "technological"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 346,
+  "question": "The project ________ usually provides the direction and funding for the project.",
+  "options": {
+   "A": "leader",
+   "B": "sponsor",
+   "C": "manager",
+   "D": "director"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 347,
+  "question": "The limitations of scope, time, and cost goals are sometimes referred to as the _______",
+  "options": {
+   "A": "double bind",
+   "B": "triple constraint",
+   "C": "double constraint",
+   "D": "double obstacle"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 348,
+  "question": "______ are people involved in or affected by project activities and include the project sponsor, project team, support staff, customers, users, suppliers, and even opponents of project.",
+  "options": {
+   "A": "Managers",
+   "B": "Stakeholders",
+   "C": "Directors",
+   "D": "Citizens"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 349,
+  "question": "Project ____ management involves defining and managing all the work required to complete the project successfully.",
+  "options": {
+   "A": "scope",
+   "B": "quality",
+   "C": "time",
+   "D": "cost"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 350,
+  "question": "Project ____ management ensures that the project will satisfy the stated or implied needs for which it was undertaken.",
+  "options": {
+   "A": "cost",
+   "B": "time",
+   "C": "scope",
+   "D": "quality"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 351,
+  "question": "Project ____ management is concerned with making effective use of the people involved with the project.",
+  "options": {
+   "A": "human resource",
+   "B": "risk",
+   "C": "communications",
+   "D": "procurement"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 352,
+  "question": "Project ____ management involves generating, collecting, disseminating, and storing project information.",
+  "options": {
+   "A": "risk",
+   "B": "procurement",
+   "C": "communications",
+   "D": "resource"
+  },
+  "answer": "D",
+  "note": "Key tài liệu là resource, nhưng định nghĩa này là Project communications management."
+ },
+ {
+  "id": 353,
+  "question": "Project ____ management is an overarching function that affects and is affected by all of the other knowledge areas.",
+  "options": {
+   "A": "cost",
+   "B": "quality",
+   "C": "integration",
+   "D": "time"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 354,
+  "question": "What works on one project may not work on another, so it is essential for project managers to continue to develop their knowledge and ____ in managing projects.",
+  "options": {
+   "A": "time",
+   "B": "resources",
+   "C": "funding",
+   "D": "skills"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 355,
+  "question": "Which of the following factors contributes most to the success of software projects?",
+  "options": {
+   "A": "Executive support",
+   "B": "User involvement",
+   "C": "Experienced project manager",
+   "D": "Clear business objectives"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 356,
+  "question": "_____ project management software integrates information from multiple projects to show the status of active, approved, and future projects across an entire organization.",
+  "options": {
+   "A": "Investment",
+   "B": "Active",
+   "C": "Enterprise",
+   "D": "Budget"
+  },
+  "answer": "D",
+  "note": "Key tài liệu là Budget, nhưng đúng ra là Enterprise project management software."
+ },
+ {
+  "id": 357,
+  "question": "A _____ can have many different job descriptions, which can vary tremendously based on the organization and the project.",
+  "options": {
+   "A": "project supervisor",
+   "B": "project manager",
+   "C": "job coordinator",
+   "D": "project coordinator"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 358,
+  "question": "A Gantt chart is a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a ____ format.",
+  "options": {
+   "A": "pie chart",
+   "B": "line graph",
+   "C": "bar graph",
+   "D": "calendar"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 359,
+  "question": "Many organizations are now using enterprise or project ____ management software to help manage projects.",
+  "options": {
+   "A": "path",
+   "B": "portfolio",
+   "C": "institute",
+   "D": "office"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 360,
+  "question": "____ tools are often recommended for small projects and single users.",
+  "options": {
+   "A": "Low-end",
+   "B": "Mid Range",
+   "C": "High-end",
+   "D": "Expensive"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 361,
+  "question": "Most common cause of conflicts in a project is:",
+  "options": {
+   "A": "Schedules",
+   "B": "Technical opinions",
+   "C": "Personal Issues",
+   "D": "Project priorities"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 362,
+  "question": "Project Quality Management ________",
+  "options": {
+   "A": "Must meet management objectives",
+   "B": "Applies to all projects, regardless of deliverables",
+   "C": "Applies only to specific areas of the project",
+   "D": "Is necessary only when stakeholders agree on quality characteristics"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 363,
+  "question": "Who among the following is responsible for performing the scope validation?",
+  "options": {
+   "A": "Project Manager",
+   "B": "Senior Management",
+   "C": "The quality team",
+   "D": "The customer"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 364,
+  "question": "PERT is used for planning of your project. A task has pessimistic estimate of 24 days, most likely estimate of 15 days and optimistic estimate of 12 days. What is the mean value?",
+  "options": {
+   "A": "18 days",
+   "B": "25.5 days",
+   "C": "15 days",
+   "D": "16 days"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 365,
+  "question": "Which of the following is not true about analogous estimating?",
+  "options": {
+   "A": "Estimate is based on past projects.",
+   "B": "It is not very accurate.",
+   "C": "It uses bottom-up approach",
+   "D": "It is a form of an expert judgment"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 366,
+  "question": "Which of these is an example of processes in the closing process group?",
+  "options": {
+   "A": "Project Closure",
+   "B": "Scope Closure",
+   "C": "Close Project or phase",
+   "D": "Scope Validation"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 367,
+  "question": "Which of the following is not true about the WBS report?",
+  "options": {
+   "A": "WBS should focus in on the activities that must be performed in the project and should not focus on the deliverables.",
+   "B": "The project team must be involved in developing the WBS.",
+   "C": "As a rule of thumb, each activity of WBS should take less than 80 hours.",
+   "D": "WBS is usually represented in a hierarchical fashion."
+  },
+  "answer": "A"
+ },
+ {
+  "id": 368,
+  "question": "Which process identifies the project manager?",
+  "options": {
+   "A": "Develop Project Management Plan",
+   "B": "Develop Project Charter",
+   "C": "Define Scope",
+   "D": "Select Project Process"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 369,
+  "question": "Which of the following indicate that the project is doing well?",
+  "options": {
+   "A": "A negative Cost Variance",
+   "B": "An SPI of less than one",
+   "C": "A negative schedule variance",
+   "D": "A CPI of greater than one."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 370,
+  "question": "In which process of Project Risk Management knowledge area are numeric values assigned to probabilities and impact of risks?",
+  "options": {
+   "A": "Perform Qualitative Risk Analysis",
+   "B": "Perform Quantitative Risk Analysis",
+   "C": "Perform Numeric Risk Analysis",
+   "D": "Plan Risk Response"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 371,
+  "question": "Which of the following is true statement about risks?",
+  "options": {
+   "A": "If a risk is identified in a risk response plan, then that means that risk has already happened.",
+   "B": "Once a risk has happened, you refer to the risk management plan to determine what action needs to be taken.",
+   "C": "A risk that was not planned but has happened is called a trigger.",
+   "D": "Risk identification happens in all the phases of the project."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 372,
+  "question": "You are the Project Manager of the XYZ project. You want to find the planned expenses for next month. Which document do you need to refer to?",
+  "options": {
+   "A": "Cost Management Plan",
+   "B": "Cost Baseline",
+   "C": "Cost Control Plan",
+   "D": "Cost Variance report"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 373,
+  "question": "Which symbol is used to represent for the milestone in network diagram?",
+  "options": {
+   "A": "Rectangle",
+   "B": "Circle",
+   "C": "Square",
+   "D": "Diamond"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 374,
+  "question": "There maybe more than 1 critical path in the project network diagram",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 375,
+  "question": "What is the most important information in a Gantt Chart?",
+  "options": {
+   "A": "Duration",
+   "B": "Start date",
+   "C": "End date",
+   "D": "Activity detail"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 376,
+  "question": "A ________ plan will be constructed in rolling wave planning?",
+  "options": {
+   "A": "Detailed",
+   "B": "Skeleton",
+   "C": "Summary",
+   "D": "General"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 377,
+  "question": "Critical path is the ________ route in the project network",
+  "options": {
+   "A": "Longest",
+   "B": "Average",
+   "C": "Shortest",
+   "D": "None is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 378,
+  "question": "Arrows in network diagram are bi-directional",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 379,
+  "question": "Critical path in diagram is represented by _______ arrow",
+  "options": {
+   "A": "Bold",
+   "B": "Dashed",
+   "C": "Double",
+   "D": "Curved"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 380,
+  "question": "The value of top right corner at each rectangle in an activity network diagram is ________",
+  "options": {
+   "A": "Start date",
+   "B": "End date",
+   "C": "Duration",
+   "D": "Activity name"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 381,
+  "question": "For purposes of determining the major engineering tasks and distributing them on the project timeline, the project manager should assume that the process model used is _________",
+  "options": {
+   "A": "linear",
+   "B": "sequential",
+   "C": "iterative evolutionary",
+   "D": "all is correct"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 382,
+  "question": "Effective software project management focuses on __________",
+  "options": {
+   "A": "people, performance, payoff, product",
+   "B": "people, product, performance, process",
+   "C": "people, product, process, project",
+   "D": "people, process, payoff, product"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 383,
+  "question": "How does a software project manager need to act to minimize the risk of software failure?",
+  "options": {
+   "A": "Double the project team size",
+   "B": "Request a large budget",
+   "C": "Start on the right foot",
+   "D": "Track progress",
+   "E": "Both start and track"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 384,
+  "question": "The objective of software project planning is to _________",
+  "options": {
+   "A": "Convince the customer that a project is feasible",
+   "B": "Make use of historical project data",
+   "C": "Enable a manager to make reasonable estimates of cost and schedule",
+   "D": "Determine the probable profit margin prior to bidding on a project"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 385,
+  "question": "The number of people required for a software project is determined __________",
+  "options": {
+   "A": "After an estimate of the development effort is made",
+   "B": "By the size of the project budget",
+   "C": "From an assessment of the technical complexity of the system",
+   "D": "All of them"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 386,
+  "question": "The size estimate for a software product to be built must be based on a direct measure like LOC",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 387,
+  "question": "A risk referent level is a risk component value (performance, cost, support, schedule) or combination of values that cause a project to be terminated",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 388,
+  "question": "An effective risk management plan will need to address which of the following issues?",
+  "options": {
+   "A": "Risk avoidance",
+   "B": "Risk monitoring",
+   "C": "Contingency planning",
+   "D": "All of them"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 389,
+  "question": "Software risk always involves two characteristics",
+  "options": {
+   "A": "Fire fighting and crisis management",
+   "B": "Known and unknown risks",
+   "C": "Uncertainty and loss",
+   "D": "Staffing and budget"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 390,
+  "question": "Which are categories of risks?",
+  "options": {
+   "A": "Business risks, personnel risks, budget risks",
+   "B": "Project risks, technical risks, business risks",
+   "C": "Planning risks, technical risks, personnel risks",
+   "D": "Management risks, technical risks, design risks"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 391,
+  "question": "Software risk impact assessment should focus on consequences affecting",
+  "options": {
+   "A": "Planning, resources, cost, schedule",
+   "B": "Marketability, cost, personnel",
+   "C": "Business, technology, process",
+   "D": "Performance, support, cost, schedule"
+  },
+  "answer": "D",
+  "note": "Câu này xuất hiện 2 lần trong tài liệu với key khác nhau: “planning, resources, cost, schedule” và “Performance, support, cost, schedule”."
+ },
+ {
+  "id": 392,
+  "question": "The reason for refining risks is to break them into smaller units having different consequences",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 393,
+  "question": "Risk monitoring involves watching the risk indicators defined for the project and not determining the effectiveness of the risk mitigation steps themselves",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 394,
+  "question": "Risk information sheets (RIS) are never an acceptable substitute for a full-risk mitigation, monitoring and management (RMMM) plan",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 395,
+  "question": "How many approaches to quality control?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 396,
+  "question": "Standards are the key to the effective quality management",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 397,
+  "question": "“Cyclomatic complexity” metric belongs to which attributes?",
+  "options": {
+   "A": "Portability and Usability",
+   "B": "Maintainability and Portability",
+   "C": "Maintainability and Reliability",
+   "D": "Usability and Reliability"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 398,
+  "question": "“Number of procedure parameters” metric belongs to which attributes?",
+  "options": {
+   "A": "Portability and Usability",
+   "B": "Maintainability and Portability",
+   "C": "Maintainability and Reliability",
+   "D": "Usability and Reliability"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 399,
+  "question": "“Number of error message” metric belongs to which attributes?",
+  "options": {
+   "A": "Portability and Usability",
+   "B": "Maintainability and Portability",
+   "C": "Maintainability and Reliability",
+   "D": "Usability and Reliability"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 400,
+  "question": "“Length of user manual” metric belongs to which attributes?",
+  "options": {
+   "A": "Maintainability and Usability",
+   "B": "Maintainability and Portability",
+   "C": "Portability and Usability",
+   "D": "Usability and Reliability"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 401,
+  "question": "Dynamic metrics are closely related to software quality attributes",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 402,
+  "question": "Implementer is one of the _________ roles",
+  "options": {
+   "A": "Action-oriented",
+   "B": "People-oriented",
+   "C": "Thought-oriented",
+   "D": "None of them"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 403,
+  "question": "Plant is one of the _________ roles",
+  "options": {
+   "A": "Action-oriented",
+   "B": "People-oriented",
+   "C": "Thought-oriented",
+   "D": "None of them"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 404,
+  "question": "Resource investigator is one of the _________ roles",
+  "options": {
+   "A": "Action-oriented",
+   "B": "People-oriented",
+   "C": "Thought-oriented",
+   "D": "None of them"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 405,
+  "question": "A project plan includes details like resource allocation to tasks, task details,….",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 406,
+  "question": "Schedule optimization can be done during the execution",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 407,
+  "question": "What is the disadvantage of analogous estimating?",
+  "options": {
+   "A": "Risk to gain bigger estimation without justification",
+   "B": "May require considerable experience for complete, especially for cases with uncertainty",
+   "C": "Count only similarities, not differences in the comparing projects",
+   "D": "All of them"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 408,
+  "question": "How to calculate Cost Variance (CV)?",
+  "options": {
+   "A": "CV = EV/PV",
+   "B": "CV = EV-PV",
+   "C": "CV = EV-AC",
+   "D": "CV = EV/AC"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 409,
+  "question": "Which term refers to the money it takes to sell a product after it is made?",
+  "options": {
+   "A": "Gross income",
+   "B": "Expense",
+   "C": "Revenue",
+   "D": "Cost"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 410,
+  "question": "Which term refers to the amount that vender received for conducting a project?",
+  "options": {
+   "A": "Net income",
+   "B": "Gross profit",
+   "C": "Expense",
+   "D": "Revenue"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 411,
+  "question": "Which criterion makes you increase pessimistic estimation?",
+  "options": {
+   "A": "Time constrains specified by customer",
+   "B": "Risk identified during planning",
+   "C": "Funding constrains, determined by sponsor",
+   "D": "Quality requirements provided by stakeholders"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 412,
+  "question": "The project budget ________",
+  "options": {
+   "A": "Can change through the change management process",
+   "B": "There is always deviation between budget and actual cost, what needs to be corrected through the change management",
+   "C": "Is changing no matter what",
+   "D": "Never change"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 413,
+  "question": "Why the cost of quality should be added to project costs?",
+  "options": {
+   "A": "Because the cost of quality is a contingency part of budget",
+   "B": "It may take considerable time and efforts to provided accurate estimation",
+   "C": "Because the cost of quality if a part of management reserve",
+   "D": "Such costs should be assumed in the project charter"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 414,
+  "question": "A project manager concerns about increasing of productivity and saving money.",
+  "options": {
+   "A": "Policies on estimating, processes, templates, company culture and existing systems",
+   "B": "Scope baseline",
+   "C": "Human resources plan",
+   "D": "Project schedule"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 415,
+  "question": "In which of the following phases of the project will most of the money be spent?",
+  "options": {
+   "A": "Initiating",
+   "B": "Planning",
+   "C": "Executing",
+   "D": "Closing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 416,
+  "question": "The highest element in the hierarchical breakdown of the WBS is _________",
+  "options": {
+   "A": "Project",
+   "B": "Major deliverable",
+   "C": "A work package",
+   "D": "Framework activity"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 417,
+  "question": "The duration of the schedule activity is affected by all of the following except __________",
+  "options": {
+   "A": "The estimated activity resource requirements.",
+   "B": "The resources assigned to the schedule",
+   "C": "The availability of the resources assigned to the schedule activity.",
+   "D": "The use of Gantt chart or a network diagram"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 418,
+  "question": "A schedule compression technique to determine how to obtain the greatest amount of compression for the least incremental cost is called ___________",
+  "options": {
+   "A": "Crashing",
+   "B": "PERT",
+   "C": "ADM or PDM",
+   "D": "Fast Tracking"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 419,
+  "question": "The critical path is established by calculating the following dates:",
+  "options": {
+   "A": "start-to-start, start to finish, finish to finish, finish to start.",
+   "B": "early start, early finish, late start, late finish.",
+   "C": "predecessor to successor, predecessor to predecessor, successor to successor",
+   "D": "None of them"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 420,
+  "question": "The project time management processes include:",
+  "options": {
+   "A": "Define activity, sequence activity, execute activity, estimate activity duration",
+   "B": "Define activity, sequence activity, and estimate activity duration.",
+   "C": "Identify Activity, Execute Activity, Activity Results",
+   "D": "All of them"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 421,
+  "question": "The three-point estimates method for estimating activity duration from the single point, most-likely estimate method in that is used ___________",
+  "options": {
+   "A": "An average of the three estimated durations to estimate activity duration.",
+   "B": "Dummy activities to represent log ties",
+   "C": "Free float instead of total float in the schedule calculations",
+   "D": "Bar charts instead of logic diagrams to portray the schedule"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 422,
+  "question": "Analogous duration estimating is ___________",
+  "options": {
+   "A": "bottom-up estimating",
+   "B": "frequently used to estimate project duration when there is a limited amount of detailed info",
+   "C": "similar to multiple duration estimating",
+   "D": "deductive estimating"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 423,
+  "question": "A dependency that requires that design be completed before manufacturing can start is an example of __________",
+  "options": {
+   "A": "discretionary dependency",
+   "B": "external dependency",
+   "C": "mandatory dependency",
+   "D": "scope dependency"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 424,
+  "question": "Which of the following are generally illustrated better by Gantt Charts than Network Diagrams?",
+  "options": {
+   "A": "logical relationships",
+   "B": "critical paths",
+   "C": "resource trade-off",
+   "D": "progress or status"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 425,
+  "question": "Which of the following is the best project management tool to use to determine the longest time the project will take?",
+  "options": {
+   "A": "WBS",
+   "B": "Network Diagram",
+   "C": "Gantt Chart",
+   "D": "Project Charter"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 426,
+  "question": "Which of the following is correct?",
+  "options": {
+   "A": "The critical path can change during project execution",
+   "B": "There can be only one critical path",
+   "C": "The network diagram will change every time the end date changes",
+   "D": "A project can never have negative float"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 427,
+  "question": "The slack of a task is determined by __________",
+  "options": {
+   "A": "Performing a Monte Carlo analysis",
+   "B": "The waiting time between tasks",
+   "C": "Lag",
+   "D": "The amount of time the task can be delayed before is delays the critical path"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 428,
+  "question": "If the project time and cost are not as important as the number of resources used each month, which of the following is the best thing to do?",
+  "options": {
+   "A": "Perform Monte Carlo analysis",
+   "B": "Fast track the project",
+   "C": "Perform resource leveling",
+   "D": "Analyze the life cycle cost"
+  },
+  "answer": "B",
+  "note": "Key tài liệu là Fast track, nhưng đúng ra là Perform resource leveling."
+ },
+ {
+  "id": 429,
+  "question": "Which estimating method uses one time estimate for each task?",
+  "options": {
+   "A": "PERT",
+   "B": "CPM",
+   "C": "Monte Carlo",
+   "D": "Control charts"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 430,
+  "question": "All of the following are true about the project scope statement except _________",
+  "options": {
+   "A": "It is an output of scope verification.",
+   "B": "It describes, in detail, the project's deliverables and the work required to create those deliverables.",
+   "C": "It provides a common understanding of the project scope among all stakeholders.",
+   "D": "It describes the project's major objectives"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 431,
+  "question": "What is WBS typically used for?",
+  "options": {
+   "A": "To organize and define the total scope",
+   "B": "To identify the logical person to be project sponsor",
+   "C": "To define the level of reporting the seller provides the buyer",
+   "D": "As a record of when work elements are assigned to individuals"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 432,
+  "question": "A project manager may use _______ to make sure the team clearly knows what work is included in each of their tasks",
+  "options": {
+   "A": "a project scope of work",
+   "B": "a project charter",
+   "C": "a WBS dictionary",
+   "D": "A risk response plan"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 433,
+  "question": "Output from the estimate activity resources process includes __________",
+  "options": {
+   "A": "job descriptions",
+   "B": "salary schedules",
+   "C": "Identification and description of the types and quantities of resources required.",
+   "D": "Analogous estimating"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 434,
+  "question": "Which of the following is a key attribute of verifying scope?",
+  "options": {
+   "A": "improved cost estimates",
+   "B": "customer acceptance of project efforts",
+   "C": "improved schedule estimates",
+   "D": "improved project management information system"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 435,
+  "question": "When should the scope be verified?",
+  "options": {
+   "A": "at the end of the project",
+   "B": "at the beginning of the project",
+   "C": "at the beginning of each phase",
+   "D": "during planning"
+  },
+  "answer": "C",
+  "note": "Key tài liệu là 'at the beginning of each phase'; nghi ngờ — scope thường được verify ở cuối mỗi phase."
+ },
+ {
+  "id": 436,
+  "question": "A project plan should be realistic in order to be used to manage the project. Which of the following is the best method to achieve a realistic project plan?",
+  "options": {
+   "A": "senior manager creates the project plan based on input from the project manager",
+   "B": "function manager created the project plan based on input from the project manager",
+   "C": "based on input from senior manager",
+   "D": "based on input from the team"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 437,
+  "question": "Which of the following is included in a project charter?",
+  "options": {
+   "A": "Identification of risks",
+   "B": "Task estimates",
+   "C": "Detailed resource estimates",
+   "D": "The business need for the project"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 438,
+  "question": "During what phase of the life cycle is the project scope statement created?",
+  "options": {
+   "A": "initiating",
+   "B": "planning",
+   "C": "executing",
+   "D": "controlling"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 439,
+  "question": "Which following statement is true about WBS?",
+  "options": {
+   "A": "the WBS is another term for Gantt chart",
+   "B": "each descending level of the WBS represents an increasing detailed definition of the project work",
+   "C": "work not in the WBS us usually defined in the scope statement of the project",
+   "D": "the WBS shows only the critical path activities"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 440,
+  "question": "To complete the project fast, the project manager looks at the cost associated with crashing each task. The best approach to crashing would include looking at the __________",
+  "options": {
+   "A": "Risk impact of crashing each task",
+   "B": "Customer's opinion of what task to crash",
+   "C": "Boss's opinion of what tasks to crash and in what order.",
+   "D": "Project phase in which the task is dur to occur"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 441,
+  "question": "When would a milestone chart be used instead of a Gantt Chart?",
+  "options": {
+   "A": "project planning",
+   "B": "reporting to team members",
+   "C": "reporting to management",
+   "D": "risk analysis"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 442,
+  "question": "How many software quality attributes?",
+  "options": {
+   "A": "13",
+   "B": "14",
+   "C": "15",
+   "D": "16"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 443,
+  "question": "Quality management should be separated from project management to ensure independence",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 444,
+  "question": "Which statement is correct?",
+  "options": {
+   "A": "Function (process) follows form (product)",
+   "B": "Form (product) follows function (process)",
+   "C": "All is correct",
+   "D": "None is correct"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 445,
+  "question": "A software property can not be measured",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 446,
+  "question": "Static metrics have an indirect relationship with quality attributes",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 447,
+  "question": "__________ is the ability to encourage by \"push or pull\" technical people to produce to their best ability.",
+  "options": {
+   "A": "Motivation",
+   "B": "Monitoring",
+   "C": "Evaluating",
+   "D": "None is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 448,
+  "question": "Inspections and tests are what kinds of quality costs?",
+  "options": {
+   "A": "Prevention",
+   "B": "Appraisal",
+   "C": "Internal Failure",
+   "D": "External Failure"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 449,
+  "question": "Which of the following is responsible for the quality objective?",
+  "options": {
+   "A": "Top level management",
+   "B": "Middle level management",
+   "C": "Frontline management",
+   "D": "All of them"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 450,
+  "question": "Which of the following is not a core step of Six Sigma?",
+  "options": {
+   "A": "Analyze",
+   "B": "Measure",
+   "C": "Define",
+   "D": "Control"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 451,
+  "question": "Which are the Mandatory Quality Procedures?",
+  "options": {
+   "A": "Control of records",
+   "B": "Control of documents",
+   "C": "Control of Production Equipment, tools and CNC programs",
+   "D": "All of them"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 452,
+  "question": "What should a project manager do or follow to ensure clear boundaries for project completion?",
+  "options": {
+   "A": "Scope verification",
+   "B": "Scope definition",
+   "C": "Completing scope statement",
+   "D": "Risk management plan"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 453,
+  "question": "The process mapping is a _________ diagram",
+  "options": {
+   "A": "Workflow",
+   "B": "Audit",
+   "C": "Data flow",
+   "D": "Circular"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 454,
+  "question": "Which metric is related to the software maintenance?",
+  "options": {
+   "A": "Process",
+   "B": "Product",
+   "C": "Software",
+   "D": "Development"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 455,
+  "question": "Overall approach to influence and determine the level of quality achieved in a software product:",
+  "options": {
+   "A": "Program/Project Manager",
+   "B": "Software Quality Program",
+   "C": "Software Quality Manager",
+   "D": "Software Quality Evaluation"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 456,
+  "question": "_________ refers to quantitative evaluation",
+  "options": {
+   "A": "Software",
+   "B": "Operation",
+   "C": "Assessment",
+   "D": "Measurement"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 457,
+  "question": "Planned progress is presented by ________ line in diagram",
+  "options": {
+   "A": "solid",
+   "B": "dashed",
+   "C": "dotted",
+   "D": "None is correct"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 458,
+  "question": "How many filters must be used to process the raw project data?",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 459,
+  "question": "Which of the following is not project management goal?",
+  "options": {
+   "A": "Keeping overall costs within budget.",
+   "B": "Delivering the software to the customer at the agreed time.",
+   "C": "Maintaining a happy and well-functioning development team.",
+   "D": "Avoiding costumer complaints."
+  },
+  "answer": "D"
+ },
+ {
+  "id": 460,
+  "question": "Which of the following is not considered as a risk in project management?",
+  "options": {
+   "A": "Specification delays",
+   "B": "Product competition",
+   "C": "Testing",
+   "D": "Staff turnover"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 461,
+  "question": "Identify the sub-process of process improvement:",
+  "options": {
+   "A": "Process introduction",
+   "B": "Process analysis",
+   "C": "De-processification",
+   "D": "Process distribution"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 462,
+  "question": "Choose an internal software quality from given below:",
+  "options": {
+   "A": "scalability",
+   "B": "usability",
+   "C": "reusability",
+   "D": "reliability"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 463,
+  "question": "Which one of the following is not a fundamental activity for software processes in software engineering ?",
+  "options": {
+   "A": "Software Verification",
+   "B": "Software Validation",
+   "C": "Software design and implementation",
+   "D": "Software specification"
+  },
+  "answer": "B",
+  "note": "Key tài liệu là Software Validation, nhưng Validation là hoạt động cơ bản (Sommerville); đáp án hợp lý hơn là Software Verification."
+ },
+ {
+  "id": 464,
+  "question": "Arrange the following steps to form a basic/general Engineering Process Model: Test (1), Design (2), Install (3), Specification (4), Manufacture (5), Maintain (6)",
+  "options": {
+   "A": "2, 4, 5, 1, 6, 3",
+   "B": "4, 2, 5, 1, 3, 6",
+   "C": "2, 4, 5, 1, 3, 6",
+   "D": "4, 2, 5, 1, 6, 3"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 465,
+  "question": "Software Configuration Management can be administered in several ways. These include:",
+  "options": {
+   "A": "A single software configuration management team for the whole organization",
+   "B": "A separate configuration management team for each project",
+   "C": "Software Configuration Management distributed among the project members",
+   "D": "All of them"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 466,
+  "question": "The best way to test the Software Project Management Plan (SPMP) is by _________",
+  "options": {
+   "A": "Prototyping",
+   "B": "Inspection",
+   "C": "Compilation",
+   "D": "Debugging"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 467,
+  "question": "Internal costs include _________",
+  "options": {
+   "A": "Developers salaries",
+   "B": "Managers and support personnel salaries",
+   "C": "The cost of overheads such as utilities, rent and senior managers",
+   "D": "Materials (such as manuals) and services such as travel"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 468,
+  "question": "The COCOMO model takes into account different approaches to software development, reuse, etc.",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "B"
+ },
+ {
+  "id": 469,
+  "question": "Which of the following states that work expands to fill the time available?",
+  "options": {
+   "A": "CASE tools",
+   "B": "Pricing to win",
+   "C": "Parkinson’s Law",
+   "D": "Expert judgement"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 470,
+  "question": "A _________ is developed using historical cost information that relates some software metric to the project cost.",
+  "options": {
+   "A": "Algorithmic cost modelling",
+   "B": "Expert judgement",
+   "C": "Estimation by analogy",
+   "D": "Parkinson’s Law"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 471,
+  "question": "Which of the following costs is not part of the total effort cost?",
+  "options": {
+   "A": "Costs of networking and communications",
+   "B": "Costs of providing heating and lighting office space",
+   "C": "Costs of lunch time food",
+   "D": "Costs of support staff"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 472,
+  "question": "Requirements Management is a prerequisite for Quality-Oriented Development.",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 473,
+  "question": "Which of the following is the process of assembling program components, data, and libraries, and then compiling and linking these to create an executable system?",
+  "options": {
+   "A": "System building",
+   "B": "Release management",
+   "C": "Change management",
+   "D": "Version management"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 474,
+  "question": "Which model assumes that systems are created from reusable components, scripting or database programming?",
+  "options": {
+   "A": "An application-composition model",
+   "B": "A post-architecture model",
+   "C": "A reuse model",
+   "D": "An early design model"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 475,
+  "question": "Which model is used during early stages of the system design after the requirements have been established?",
+  "options": {
+   "A": "An application-composition model",
+   "B": "A post-architecture model",
+   "C": "A reuse model",
+   "D": "An early design model"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 476,
+  "question": "Which model is used to compute the effort required to integrate reusable components or program code that is automatically generated by design or program translation tools?",
+  "options": {
+   "A": "An application-composition model",
+   "B": "A post-architecture model",
+   "C": "A reuse model",
+   "D": "An early design model"
+  },
+  "answer": "C"
+ },
+ {
+  "id": 477,
+  "question": "In the classical chief programmer team approach, the team member responsible for maintaining the detailed design and coding is ___________",
+  "options": {
+   "A": "The chief programmer",
+   "B": "The programming secretary",
+   "C": "A specialized function that exists outside ‘the team’",
+   "D": "The individual coder (i.e. programmer)"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 478,
+  "question": "Software Science bases its estimation of the size of a product on ___________",
+  "options": {
+   "A": "Files (Fi), Flows (Fl) and Processes (Pr)",
+   "B": "Lines of Code (LOC)",
+   "C": "Function Points (FP)",
+   "D": "Operands and operators"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 479,
+  "question": "Work that continues throughout the project and does not relate to any specific phase of software development is termed a(n) __________",
+  "options": {
+   "A": "Milestone",
+   "B": "Project function",
+   "C": "Task",
+   "D": "Baseline."
+  },
+  "answer": "B"
+ },
+ {
+  "id": 480,
+  "question": "What is related to the overall functionality of the delivered software?",
+  "options": {
+   "A": "Function-related metrics",
+   "B": "Product-related metrics",
+   "C": "Size-related metrics",
+   "D": "None of the mentioned"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 481,
+  "question": "“Over 30% of all software projects are cancelled before completion and over 70% of the remainder fail to deliver expected features”. What must be the reason for such a situation?",
+  "options": {
+   "A": "Poor change management",
+   "B": "Poor requirements management",
+   "C": "Poor quality control",
+   "D": "All of the mentioned"
+  },
+  "answer": "D"
+ },
+ {
+  "id": 482,
+  "question": "A general statement of objectives is the major cause of failed software efforts.",
+  "options": {
+   "A": "True",
+   "B": "False"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 483,
+  "question": "How many steps in project communication management process ?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": "A"
+ },
+ {
+  "id": 484,
+  "question": "Which one is not a valid software quality metric ?",
+  "options": {
+   "A": "Performance",
+   "B": "Test failures",
+   "C": "Static code analysis",
+   "D": "None of them"
+  },
+  "answer": "D"
+ }
+]

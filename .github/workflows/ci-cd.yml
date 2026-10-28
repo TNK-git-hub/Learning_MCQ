@@ -1,0 +1,54 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:                      # ---- CI ----
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pymupdf
+
+      - name: Dữ liệu phải khớp với PDF
+        run: |
+          python -W ignore extract.py
+          git diff --exit-code questions.json questions.js
+
+      - name: Kiểm tra dữ liệu câu hỏi
+        run: |
+          python - <<'PY'
+          import json
+          qs = json.load(open("questions.json", encoding="utf-8"))
+          bad = [q["id"] for q in qs if q["answer"] not in q["options"]]
+          assert not bad, f"Đáp án không nằm trong options: {bad}"
+          print(len(qs), "câu hỏi OK")
+          PY
+
+      - name: Kiểm tra cú pháp JS
+        run: node --check app.js
+
+  deploy:                    # ---- CD ----
+    needs: test              # chỉ deploy khi CI pass
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir _site && cp index.html app.js style.css questions.js _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

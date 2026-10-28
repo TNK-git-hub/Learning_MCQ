@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luyện trắc nghiệm SPM</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <div class="title">
+        <button id="btn-home" class="ghost" hidden>← Danh sách bộ</button>
+        <h1 id="page-title">Luyện trắc nghiệm SPM</h1>
+      </div>
+      <div id="set-actions" class="actions" hidden>
+        <label class="order">Thứ tự
+          <select id="order">
+            <option value="random">Ngẫu nhiên</option>
+            <option value="doc">Theo tài liệu</option>
+          </select>
+        </label>
+        <button id="btn-shuffle-opts" class="ghost toggle" aria-pressed="false"
+          title="Đảo vị trí các lựa chọn (giữ nguyên các lựa chọn kiểu All / Both / None)">Đảo đáp án: Tắt</button>
+        <button id="btn-restart" class="ghost" title="Bắt đầu lượt mới gồm các câu chưa thuộc">Làm lại</button>
+        <button id="btn-reset" class="ghost danger">Reset</button>
+      </div>
+    </div>
+    <div class="meter">
+      <div class="meter-label"><span>Đã thuộc <b id="learned-count">0</b> / <b id="total-count">0</b></span><span id="learned-pct"></span></div>
+      <div class="bar"><div id="learned-bar" class="fill learned"></div></div>
+    </div>
+    <div id="round-meter" class="meter" hidden>
+      <div class="meter-label"><span id="round-label"></span><span id="round-score"></span></div>
+      <div class="bar"><div id="round-bar" class="fill round"></div></div>
+    </div>
+  </header>
+
+  <main id="app">
+    <section id="home" hidden>
+      <div id="set-grid" class="grid"></div>
+    </section>
+
+    <section id="quiz" class="card" hidden>
+      <p id="q-meta" class="meta"></p>
+      <h2 id="q-text" lang="en"></h2>
+      <ol id="q-options" class="options" lang="en"></ol>
+      <button id="btn-dunno" class="dunno" title="Phím 0">🤷 Tôi không biết</button>
+      <div id="feedback" class="feedback" hidden>
+        <p id="verdict" class="verdict"></p>
+        <p id="note" class="note" hidden></p>
+      </div>
+      <div class="next-row">
+        <button id="btn-prev">← Câu trước</button>
+        <span class="hint">1–5 / A–E: chọn · 0: không biết · ← →: chuyển câu · Enter: câu tiếp</span>
+        <button id="btn-next" class="primary">Câu tiếp →</button>
+      </div>
+    </section>
+
+    <section id="summary" class="card" hidden>
+      <h2>Kết thúc lượt</h2>
+      <div class="stats">
+        <div><b id="s-correct" class="ok-text"></b><span>đúng</span></div>
+        <div><b id="s-wrong" class="bad-text"></b><span>sai</span></div>
+        <div><b id="s-skipped"></b><span>bỏ qua</span></div>
+        <div><b id="s-left"></b><span>chưa thuộc</span></div>
+      </div>
+      <p id="s-message"></p>
+      <div class="next-row">
+        <button id="btn-back">← Quay lại lượt này</button>
+        <button id="btn-again" class="primary">Làm lại các câu chưa thuộc</button>
+        <button id="btn-nextset" class="primary">Sang bộ tiếp →</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
